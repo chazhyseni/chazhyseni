@@ -27,19 +27,41 @@ date_format = "Jan 2006"
   description = """
   Responsibilities:
   
-  * Technical assistance:
+  * DNA Analysis Facility on Science Hill:
   
    * Training of staff and students in molecular techniques and data analysis
    * Operation and maintenance of sequencing equipment and software
+   * Technical assistance with sequencing and fragment analysis
   
-  * Research: 
-  
-   * Spatio-temporal patterns of genetic variation
-   * Landscape genetics and gene-environment associations
-   * Host-parasite interactions
-   * Genomic analysis and molecular marker development
+  Research:
+
+  * Department of Ecology and Evolutionary Biology:
+   
+   * Galapagos giant tortoise conservation research: phylogeography, speciation, hybridization
+   * Disease vector (tsetse) research:
+   
+     * Spatio-temporal patterns of genetic variation and gene-environment associations
+     * Host-parasite interactions
+     * Genomic analysis and molecular marker development
   """
 
+[[experience]]
+  title = "Ph.D. Student"
+  company = "University of Mississippi"
+  company_url = ""
+  location = "University, Mississippi, USA"
+  date_start = "2014-01-20"
+  date_end = "2019-12-15"
+  description = """
+  Research:
+  
+  * Geography, ecological context, and evolution of subterranean termites 
+  
+   * Ecological drivers of geographic distributions and niche divergence of subterranean termite species
+   * The role of glacial-interglacial climate change in shaping the geographic distribution and evolutionary history of subterranean termites
+   * Capturing population structure and landscape connectivity by modeling neutral and adaptive genetic variation across space 
+   * Genetic variation, epigenetic regulation and gene-environment associations across landscapes
+  """
 [[experience]]
   title = "Graduate Teaching Assistant"
   company = "University of Mississippi"
@@ -48,17 +70,20 @@ date_format = "Jan 2006"
   date_start = "2014-01-20"
   date_end = "2019-12-15"
   description = """
-  Laboratory courses:
+  Courses:
   
-  * 
-  * 
-  * 
-  
+  * Inquiry into Life Lab I: Human Biology (Spring 2014-Spring 2015)
+  * Inquiry into Life Lab II: Diversity and the Environment (Spring 2014)
+  * Biological Sciences I Lab (Fall 2014)
+  * Genetics Lab (Fall 2015-Summer 2019)
+  * Population Genetics Computer Lab (Spring 2018)  
+  * Cell and Molecular Biology Lab (Spring 2019)
+
   Guest lectures:
   
-  * 
-  * 
-  * 
+  * Course: Genetics; Title: Population Genetics (8 Mar. 2018)
+  * Course: Genetics; Title: Population Genetics (5 Mar. 2019)
+  * Course: Integrated Science; Title: Classical and Modern Genetics (13 Apr. 2018)
   """
 
 +++
