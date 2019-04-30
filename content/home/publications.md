@@ -79,7 +79,7 @@ Ryan C. Garrick, John D. Banusiewicz, Stephanie Burgess, <b><i>Chaz Hyseni</i></
 <b><i>Chaz Hyseni</i></b>, Ryan Garrick: Ecological drivers of species distributions and niche overlap for three subterranean termite species in the southern Appalachian Mountains, USA. Insects, 2019.
 <embed src="publication/HyseniGarrick2019_NicheOverlapRetSpp.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="600px" />
 
-Norah P. Saarman, Robert Opiro, <b><i>Chaz Hyseni</i></b>, Richard Echodu, Elizabeth A. Opiyo, Kirstin Dion, Thomas Johnson, Serap Aksoy, Adalgisa Caccone: The population genomics of multiple tsetse fly (Glossina fuscipes fuscipes) admixture zones in Uganda. Molecular Ecology, 2018.
+Norah P. Saarman, Robert Opiro, <b><i>Chaz Hyseni</i></b>, Richard Echodu, Elizabeth A. Opiyo, Kirstin Dion, Thomas Johnson, Serap Aksoy, Adalgisa Caccone: The population genomics of multiple tsetse fly (Glossina fuscipes fuscipes) admixture zones in Uganda. Molecular Ecology, 2019.
 <embed src="publication/Saarmanetal2018_Admixture.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="600px" />
 
 Norah P. Saarman, Mary Burak, Robert Opiro, <b><i>Chaz Hyseni</i></b>, Richard Echodu, Kirstin Dion, Elizabeth A. Opiyo, William Augustine Dunn, Giuseppe Amatulli, Serap Aksoy, Adalgisa Caccone: A spatial genetics approach to inform vector control of tsetse flies (Glossina fuscipes fuscipes ) in Northern Uganda. Ecology and Evolution, 2018.
