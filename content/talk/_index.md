@@ -1,5 +1,5 @@
 +++
-title = "Talks"
+title = "Presentations"
 
 # View.
 #   1 = List
