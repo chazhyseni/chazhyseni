@@ -106,7 +106,7 @@ Sarah Federman, <b><i>Chaz Hyseni</i></b>, Wendy Clement, Michael P Oatham, Adal
 Brittney Kajdacsi, Federico Costa, <b><i>Chaz Hyseni</i></b>, Fleur Porter, Julia Brown, Gorete Rodrigues, Helena Farias, Mitermayer G Reis, James E Childs, Albert I Ko, Adalgisa Caccone: <i>Urban population genetics of slum-dwelling rats (Rattus norvegicus) in Salvador, Brazil.</i> Molecular Ecology, 2013.
 <embed src="publication/Kajdacsietal2013.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="600px" />
 
-Danielle L Edwards, Edgar Benavides, Ryan C Garrick, James P Gibbs, Michael A Russello, Kirstin B Dion, <b><i>Chaz Hyseni</i></b>, Joseph P Flanagan, Washington Tapia, Adalgisa Caccone: <i>The genetic legacy of Lonesome George survives: <i>Giant tortoises with Pinta Island ancestry identified in Galapagos.</i> Biological Conservation, 2013.
+Danielle L Edwards, Edgar Benavides, Ryan C Garrick, James P Gibbs, Michael A Russello, Kirstin B Dion, <b><i>Chaz Hyseni</i></b>, Joseph P Flanagan, Washington Tapia, Adalgisa Caccone: <i>The genetic legacy of Lonesome George survives: giant tortoises with Pinta Island ancestry identified in Galapagos.</i> Biological Conservation, 2013.
 <embed src="publication/Edwardsetal2013.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="600px" />
 
 Mark Sistrom, Richard Echodu, <b><i>Chaz Hyseni</i></b>, John Enyaru, Serap Aksoy, Adalgisa Caccone: <i>Taking advantage of genomic data to develop reliable microsatellite loci in Trypanosoma brucei.</i> Molecular Ecology Resources, 2013. 
