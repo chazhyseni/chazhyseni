@@ -12,6 +12,26 @@ subtitle = ""
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
+  # Background color.
+  # color = "green"
+  
+  # Background gradient.
+  # gradient_start = "DarkGreen"
+  # gradient_end = "ForestGreen"
+  
+  # Background image.
+   image = "sApps.jpg"  # Name of image in `static/img/`.
+   image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+   text_color_light = true  
+  
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
@@ -25,26 +45,20 @@ date_format = "Jan 2006"
   date_start = "2007-06-01"
   date_end = "2012-08-15"
   description = """
-  Responsibilities:
-  
-  * DNA Analysis Facility on Science Hill:
-  
-   * Training of staff and students in molecular techniques and data analysis
-   * Operation and maintenance of sequencing equipment and software
-   * Technical assistance with sequencing and fragment analysis
-  
   Research:
 
   * Department of Ecology and Evolutionary Biology:
    
    * Galapagos giant tortoise conservation research: phylogeography, speciation, hybridization
-   * Disease vector (tsetse) research:
+   * Disease vector (tsetse) research: spatio-temporal patterns of genetic variation and host-parasite interactions
    
-     * Spatio-temporal patterns of genetic variation and gene-environment associations
-     * Host-parasite interactions
-     * Genomic analysis and molecular marker development
+  Service:
+  
+  * DNA Analysis Facility on Science Hill:
+  
+   * Training of staff/students in molecular techniques and data analysis
+   * Operation and maintenance of sequencing equipment and software
   """
-
 [[experience]]
   title = "Ph.D. Student"
   company = "University of Mississippi"
@@ -81,9 +95,9 @@ date_format = "Jan 2006"
 
   Guest lectures:
   
-  * Course: Genetics; Title: Population Genetics (8 Mar. 2018)
-  * Course: Genetics; Title: Population Genetics (5 Mar. 2019)
-  * Course: Integrated Science; Title: Classical and Modern Genetics (13 Apr. 2018)
+  * Course: Genetics; Title: Population Genetics (8 Mar 2018)
+  * Course: Genetics; Title: Population Genetics (5 Mar 2019)
+  * Course: Integrated Science; Title: Classical and Modern Genetics (13 Apr 2018)
   """
 
 +++

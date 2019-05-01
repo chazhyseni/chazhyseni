@@ -43,20 +43,20 @@ subtitle = ""
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-  
+
   # Background color.
-  # color = "navy"
+  # color = "green"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  # gradient_start = "DarkGreen"
+  # gradient_end = "ForestGreen"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image = "sApps.jpg"  # Name of image in `static/img/`.
+   image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+   text_color_light = true  
   
 [advanced]
  # Custom CSS. 
@@ -70,4 +70,3 @@ subtitle = ""
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Now online! Open access <a href="https://twitter.com/Ecol_Evol?ref_src=twsrc%5Etfw">@Ecol_Evol</a> <a href="https://t.co/HX7kh4Bhzz">https://t.co/HX7kh4Bhzz</a><br>The effect of climate change in the last ~100,000 years on genetic differentiation, distributional shifts, and demographic/geographic expansion of subterranean termites! <a href="https://t.co/hKIi3QBCG4">https://t.co/hKIi3QBCG4</a></p>&mdash; Chaz Hyseni (@chazbvb09) <a href="https://twitter.com/chazbvb09/status/1113851625184145409?ref_src=twsrc%5Etfw">April 4, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-

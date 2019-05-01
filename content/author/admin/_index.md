@@ -43,12 +43,17 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "Ph.D. in Biology"
   institution = "University of Mississippi"
-  year = 2019
+  year = "2014 - 2019"
+
+[[education.courses]]
+  course = "Ph.D. in Natural Resources"
+  institution = "Cornell University (voluntary withdrawal)"
+  year = "2012 - 2013"
 
 [[education.courses]]
   course = "B.A. in Environmental Studies"
   institution = "Yale University"
-  year = 2007
+  year = "2002 - 2007"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
