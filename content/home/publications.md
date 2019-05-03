@@ -84,7 +84,7 @@ Ryan C Garrick, John D Banusiewicz, Stephanie Burgess, <b><i>Chaz Hyseni</i></b>
 Norah P Saarman, Robert Opiro, <b><i>Chaz Hyseni</i></b>, Richard Echodu, Elizabeth A Opiyo, Kirstin Dion, Thomas Johnson, Serap Aksoy, Adalgisa Caccone: <i>The population genomics of multiple tsetse fly (Glossina fuscipes fuscipes) admixture zones in Uganda.</i> Molecular Ecology, 2019.
 <embed src="publication/Saarmanetal2018_Admixture.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="600px" />
 
-Norah P Saarman, Mary Burak, Robert Opiro, <b><i>Chaz Hyseni</i></b>, Richard Echodu, Kirstin Dion, Elizabeth A Opiyo, William Augustine Dunn, Giuseppe Amatulli, Serap Aksoy, Adalgisa Caccone: <i>A spatial genetics approach to inform vector control of tsetse flies (Glossina fuscipes fuscipes ) in Northern Uganda.</i> Ecology and Evolution, 2018.
+Norah Saarman, Mary Burak, Robert Opiro, <b><i>Chaz Hyseni</i></b>, Richard Echodu, Kirstin Dion, Elizabeth A Opiyo, Augustine W Dunn, Giuseppe Amatulli, Serap Aksoy, Adalgisa Caccone: <i>A spatial genetics approach to inform vector control of tsetse flies (Glossina fuscipes fuscipes ) in Northern Uganda.</i> Ecology and Evolution, 2018.
 <embed src="publication/Saarmanetal2018_LandGen.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="600px" />
 
 Agapitus B Kato, <b><i>Chaz Hyseni</i></b>, Loyce M Okedi, Johnson O Ouma, Serap Aksoy, Adalgisa Caccone, Charles Masembe: <i>Mitochondrial DNA sequence divergence and diversity of Glossina fuscipes fuscipes in the Lake Victoria basin of Uganda: implications for control.</i> Parasites and Vectors, 2015.
