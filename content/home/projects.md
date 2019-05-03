@@ -21,21 +21,21 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-   [[content.filter_button]]
-     name = "All"
-     tag = "*"
-  
-   [[content.filter_button]]
-     name = "Data"
-     tag = "Data"
-  
-   [[content.filter_button]]
-     name = "Results"
-     tag = "Results"
+#   [[content.filter_button]]
+#     name = "All"
+#     tag = "*"
 
-   [[content.filter_button]]
-     name = "R code"
-     tag = "R_code"
+#   [[content.filter_button]]
+#     name = "Data"
+#     tag = "Data"
+
+#   [[content.filter_button]]
+#     name = "Results"
+#     tag = "Results"
+
+#   [[content.filter_button]]
+#     name = "R code"
+#     tag = "R_code"
   
 
 [design]
@@ -46,7 +46,7 @@ subtitle = ""
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -78,4 +78,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+<blockquote class="datadryad"><h4><a href="https://datadryad.org/resource/doi:10.5061/dryad.5hr7f31">Data from: The role of glacial-interglacial climate change in shaping the genetic structure of eastern subterranean termites in the southern Appalachian Mountains, USA</a></h4></blockquote>
