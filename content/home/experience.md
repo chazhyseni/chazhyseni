@@ -84,7 +84,7 @@ date_format = "Jan 2006"
   date_start = "2014-01-20"
   date_end = "2019-12-15"
   description = """
-  Courses:
+  Courses taught:
   
   * Inquiry into Life Lab I: Human Biology (Spring 2014-Spring 2015)
   * Inquiry into Life Lab II: Diversity and the Environment (Spring 2014)
