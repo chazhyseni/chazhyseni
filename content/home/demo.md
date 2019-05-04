@@ -6,14 +6,14 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = "Spatial Eco-Evolutionary Genetics"
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -46,5 +46,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-
+<img src="img/SpEcEvGen.png" 
+     style="position:relative; float:right"
+     alt="SpEcEvGen" 
+/> 
