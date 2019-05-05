@@ -95,9 +95,9 @@ date_format = "Jan 2006"
 
   Guest lectures:
   
-  * Course: Genetics; Title: Population Genetics (8 Mar 2018)
-  * Course: Genetics; Title: Population Genetics (5 Mar 2019)
-  * Course: Integrated Science; Title: Classical and Modern Genetics (13 Apr 2018)
+  * Course: Genetics; Title: <b><i>Population Genetics</i></b> (8 Mar 2018)
+  * Course: Genetics; Title: <b><i>Population Genetics</i></b> (5 Mar 2019)
+  * Course: Integrated Science; Title: <b><i>Classical and Modern Genetics</i></b> (13 Apr 2018)
   """
 
 +++
