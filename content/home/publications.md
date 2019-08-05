@@ -66,8 +66,8 @@ subtitle = ""
  css_class = ""
 +++
 
- 28. Daniela I Schneider, Norah Saarman, Maria G Onyango, <b><i>Chaz Hyseni</i></b>, Robert Opiro, Richard Echodu, Michelle O'Neill, Danielle Bloch, Aurelien Vigneron, TJ Johnson, Kirstin Dion, Brian L Weiss, Elizabeth Opiyo, Adalgisa Caccone, Serap Aksoy: <i>Spatio-temporal distribution of Spiroplasma infections in the tsetse fly (Glossina fuscipes fuscipes) in northern Uganda.</i> PLoS Neglected Tropical Diseases, In Review. bioRxiv preprint: https://doi.org/10.1101/591321.
- <embed src="publication/Schneideretal2019_SpiroplasmaTsetse_PreprintBioRxiv.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 28. Daniela I Schneider, Norah Saarman, Maria G Onyango, <b><i>Chaz Hyseni</i></b>, Robert Opiro, Richard Echodu, Michelle O'Neill, Danielle Bloch, Aurelien Vigneron, TJ Johnson, Kirstin Dion, Brian L Weiss, Elizabeth Opiyo, Adalgisa Caccone, Serap Aksoy: <i>Spatio-temporal distribution of Spiroplasma infections in the tsetse fly (Glossina fuscipes fuscipes) in northern Uganda.</i> PLoS Neglected Tropical Diseases, 2019.
+ <embed src="publication/Schneideretal2019_SpiroplasmaTsetse.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
 
  27. <b><i>Chaz Hyseni</i></b>, Ryan C Garrick: <i>The role of glacial-interglacial climate change in shaping the genetic structure of eastern subterranean termites in the southern Appalachian Mountains, USA.</i> Ecology and Evolution, 2019.
  <embed src="publication/HyseniGarrick2019_RflavipesPhylogeography.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
