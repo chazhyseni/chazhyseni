@@ -99,10 +99,10 @@ date_format = "Jan 2006"
   * Course: Genetics; Title: <b><i>Population Genetics</i></b> (5 Mar 2019)
   * Course: Integrated Science; Title: <b><i>Classical and Modern Genetics</i></b> (13 Apr 2018)
   
-  2019/2020:
+  2019-2020:
     
-  * Fall 2019 (Not teaching; awarded University of Mississippi Graduate School Dissertation Fellowship)
-  * Spring 2020 (TBD)
+  * Fall 2019 (Not teaching; awarded <b><i>University of Mississippi Graduate School Dissertation Fellowship</i></b>)
+  * Spring 2020 (<b><i>TBD</i></b>)
   """
 
 +++
