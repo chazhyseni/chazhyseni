@@ -43,7 +43,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "Ph.D. in Biology"
   institution = "University of Mississippi"
-  year = "2014 - 2019"
+  year = "2014 - 2020"
 
 [[education.courses]]
   course = "Ph.D. in Natural Resources"

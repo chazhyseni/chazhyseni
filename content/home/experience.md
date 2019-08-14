@@ -65,7 +65,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "University, Mississippi, USA"
   date_start = "2014-01-20"
-  date_end = "2019-12-15"
+  date_end = "2020-05-09"
   description = """
   Research:
   
@@ -82,7 +82,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "University, Mississippi, USA"
   date_start = "2014-01-20"
-  date_end = "2019-12-15"
+  date_end = "2020-05-09"
   description = """
   Courses taught:
   
@@ -92,12 +92,17 @@ date_format = "Jan 2006"
   * Genetics Lab (Fall 2015-Summer 2019)
   * Population Genetics Computer Lab (Spring 2018)  
   * Cell and Molecular Biology Lab (Spring 2019)
-
+  
   Guest lectures:
   
   * Course: Genetics; Title: <b><i>Population Genetics</i></b> (8 Mar 2018)
   * Course: Genetics; Title: <b><i>Population Genetics</i></b> (5 Mar 2019)
   * Course: Integrated Science; Title: <b><i>Classical and Modern Genetics</i></b> (13 Apr 2018)
+  
+  2019/2020:
+    
+  * Fall 2019 (Not teaching; awarded University of Mississippi Graduate School Dissertation Fellowship)
+  * Spring 2020 (TBD)
   """
 
 +++
