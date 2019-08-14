@@ -102,7 +102,7 @@ date_format = "Jan 2006"
   2019-2020:
     
   * Fall 2019 (Not teaching; awarded <b><i>University of Mississippi Graduate School Dissertation Fellowship</i></b>)
-  * Spring 2020 (<b><i>TBD</i></b>)
+  * Spring 2020 (TBD)
   """
 
 +++
