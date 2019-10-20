@@ -83,7 +83,7 @@ Conference Talks:
 
  4. University of Mississippi Graduate Student Council 8th Annual Research Symposium (20 Mar 2018, Oxford MS): <b><i>Landscape connectivity: neutral and adaptive genetic variation across space</i></b>
 
- 3. Entomogical Society of America (4-8 Nov 2017, Denver CO): <b><i>Evolutionary history of eastern subterranean termites: distributional shifts and postglacial expansion in the Appalachian Mountains</i></b> <embed src="talk/Entomology2017_ChazHyseni_TermitePhylogeographyTalk.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 3. Entomological Society of America (4-8 Nov 2017, Denver CO): <b><i>Evolutionary history of eastern subterranean termites: distributional shifts and postglacial expansion in the Appalachian Mountains</i></b> <embed src="talk/Entomology2017_ChazHyseni_TermitePhylogeographyTalk.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
 
  2. University of Mississippi Research Showcase (31 Mar 2017, Oxford MS): <b><i>Inferring the eastern subterranean termite's evolutionary past: history of dispersal and habitat utilization in the Appalachians</i></b>
 
