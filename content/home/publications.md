@@ -66,7 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<img src="publication/wordcloud_shape.png" style="position:relative; left:20px" width="75%" alt="WordCloud"/>
+<img src="publication/wordcloud_shape.png" style="position:relative" width="90%" alt="WordCloud"/>
 
  28. Daniela I Schneider, Norah Saarman, Maria G Onyango, <b><i>Chaz Hyseni</i></b>, Robert Opiro, Richard Echodu, Michelle O'Neill, Danielle Bloch, Aurelien Vigneron, TJ Johnson, Kirstin Dion, Brian L Weiss, Elizabeth Opiyo, Adalgisa Caccone, Serap Aksoy: <i>Spatio-temporal distribution of Spiroplasma infections in the tsetse fly (Glossina fuscipes fuscipes) in northern Uganda.</i> PLoS Neglected Tropical Diseases, 2019.
  <embed src="publication/Schneideretal2019_SpiroplasmaTsetse.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
