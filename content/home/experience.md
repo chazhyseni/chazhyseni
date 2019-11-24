@@ -95,8 +95,9 @@ date_format = "Jan 2006"
   
   Guest lectures:
   
-  * Course: Genetics; Title: <b><i>Population Genetics</i></b> (8 Mar 2018)
+  * Course: Evolution; Title: <b><i>Genetic Drift and the Founder Effect</i></b> (30 Oct 2019)
   * Course: Genetics; Title: <b><i>Population Genetics</i></b> (5 Mar 2019)
+  * Course: Genetics; Title: <b><i>Population Genetics</i></b> (8 Mar 2018)
   * Course: Integrated Science; Title: <b><i>Classical and Modern Genetics</i></b> (13 Apr 2018)
   
   2019-2020:
