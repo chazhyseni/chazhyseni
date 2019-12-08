@@ -73,8 +73,8 @@ date_format = "Jan 2006"
   
    * Ecological drivers of geographic distributions and niche divergence of subterranean termite species
    * The role of glacial-interglacial climate change in shaping the geographic distribution and evolutionary history of subterranean termites
-   * Capturing population structure and landscape connectivity by modeling neutral and adaptive genetic variation across space 
    * Genetic variation, epigenetic regulation and gene-environment associations across landscapes
+   * Capturing population structure and landscape connectivity by modeling neutral and adaptive genetic variation across space 
   """
 [[experience]]
   title = "Graduate Teaching Assistant"
@@ -86,12 +86,12 @@ date_format = "Jan 2006"
   description = """
   Courses taught:
   
-  * Inquiry into Life Lab I: Human Biology (Spring 2014-Spring 2015)
-  * Inquiry into Life Lab II: Diversity and the Environment (Spring 2014)
-  * Biological Sciences I Lab (Fall 2014)
   * Genetics Lab (Fall 2015-Summer 2019)
-  * Population Genetics Computer Lab (Spring 2018)  
   * Cell and Molecular Biology Lab (Spring 2019)
+  * Population Genetics Computer Lab (Spring 2018)  
+  * Inquiry into Life Lab I: Human Biology (Spring 2014-Spring 2015)
+  * Biological Sciences I Lab (Fall 2014)
+  * Inquiry into Life Lab II: Diversity and the Environment (Spring 2014)
   
   Guest lectures:
   
@@ -103,7 +103,7 @@ date_format = "Jan 2006"
   2019-2020:
     
   * Fall 2019 (Not teaching; awarded <b><i>University of Mississippi Graduate School Dissertation Fellowship</i></b>)
-  * Spring 2020 (TBD)
+  * Spring 2020 (Genetics Lab)
   """
 
 +++
