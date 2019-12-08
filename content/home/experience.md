@@ -102,7 +102,7 @@ date_format = "Jan 2006"
   When not teaching:
     
   * Fall 2019 (Awarded <b><i>University of Mississippi Graduate School Dissertation Fellowship</i></b>)
-  * Summer 2015-2018 (Awarded <b><i>University of Mississippi Graduate School Summer Research Fellowship</i></b>
+  * Summer 2015-2018 (Awarded <b><i>University of Mississippi Graduate School Summer Research Fellowship</i></b>)
   """
 
 +++
