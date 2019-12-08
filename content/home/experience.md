@@ -86,7 +86,7 @@ date_format = "Jan 2006"
   description = """
   Courses taught:
   
-  * Genetics Lab (Fall 2015-Summer 2019)
+  * Genetics Lab (Fall 2015-Spring 2019, Summer 2019, Spring 2020)
   * Cell and Molecular Biology Lab (Spring 2019)
   * Population Genetics Computer Lab (Spring 2018)  
   * Inquiry into Life Lab I: Human Biology (Spring 2014-Spring 2015)
@@ -96,14 +96,13 @@ date_format = "Jan 2006"
   Guest lectures:
   
   * Course: Evolution; Title: <b><i>Genetic Drift and the Founder Effect</i></b> (30 Oct 2019)
-  * Course: Genetics; Title: <b><i>Population Genetics</i></b> (5 Mar 2019)
-  * Course: Genetics; Title: <b><i>Population Genetics</i></b> (8 Mar 2018)
+  * Course: Genetics; Title: <b><i>Population Genetics</i></b> (5 Mar 2019; 8 Mar 2018)
   * Course: Integrated Science; Title: <b><i>Classical and Modern Genetics</i></b> (13 Apr 2018)
   
-  2019-2020:
+  When not teaching:
     
-  * Fall 2019 (Not teaching; awarded <b><i>University of Mississippi Graduate School Dissertation Fellowship</i></b>)
-  * Spring 2020 (Genetics Lab)
+  * Fall 2019 (Awarded <b><i>University of Mississippi Graduate School Dissertation Fellowship</i></b>)
+  * Summer 2015-2018 (Awarded <b><i>University of Mississippi Graduate School Summer Research Fellowship</i></b>
   """
 
 +++
