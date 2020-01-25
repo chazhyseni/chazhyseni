@@ -65,6 +65,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">wrapping up this PhD chapter soon. defense date set: 4/22 (<a href="https://t.co/IL3CxG8uhw">https://t.co/IL3CxG8uhw</a>)<br>postdoctoral chapter location/date TBD<a href="https://t.co/2nsi4SfELx">https://t.co/2nsi4SfELx</a><a href="https://t.co/CAPbAgiaSM">https://t.co/CAPbAgiaSM</a></p>&mdash; Chaz Hyseni (@chazbvb09) <a href="https://twitter.com/chazbvb09/status/1221102226195865601?ref_src=twsrc%5Etfw">January 25, 2020</a></blockquote> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">based on word choice in my publications, i must be into <a href="https://twitter.com/hashtag/popgen?src=hash&amp;ref_src=twsrc%5Etfw">#popgen</a><br>(<a href="https://t.co/2nsi4SfELx">https://t.co/2nsi4SfELx</a>) <a href="https://t.co/bHWI1NvCtP">pic.twitter.com/bHWI1NvCtP</a></p>&mdash; Chaz Hyseni (@chazbvb09) <a href="https://twitter.com/chazbvb09/status/1187947506325491712?ref_src=twsrc%5Etfw">October 26, 2019</a></blockquote> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
