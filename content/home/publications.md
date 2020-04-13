@@ -68,6 +68,8 @@ subtitle = ""
 
 <img src="publication/wordcloud_shape.png" style="position:relative; left:40px" width="95%" alt="WordCloud"/>
 
+ = Equal Contribution
+
  30. Ryan C Garrick, <b><i>Chaz Hyseni</i></b>, Isis Arantes: <i>Efficient summary statistics for detecting lineage fusion from phylogeographic datasets.</i> Journal of Biogeography, In Press.
  
  29. Norah Saarman, Rosemary Bateta, Kirstin Dion, TJ Johnson, <b><i>Chaz Hyseni</i></b>, Winnie Okeyo, Paul Mireji, Sylvance Okoth, Grace Murilla, Serap Aksoy, Adalgisa Caccone: <i>Finding sources of re-infestation: Spatial scale of genetic connectivity of tsetse populations along the Ugandan and Kenyan shore of Lake Victoria.</i> American Journal of Tropical Medicine and Hygiene, In Press.
@@ -156,6 +158,6 @@ subtitle = ""
  1. Michael A Russello, <b><i>Chaz Hyseni</i></b>, James P Gibbs, S Cruz, Cruz Marquez, Washington Tapia, P Velensky, Jeffrey R Powell, Adalgisa Caccone: <i>Lineage identification of Galapagos tortoises in captivity worldwide.</i> Animal Conservation, 2007.
 <embed src="publication/Russelloetal2007.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
 
-= Equal Contribution
+# = Equal Contribution
 
 # <img src="publication/AuthOrd.png" style="position:relative; left:20px" width="75%" alt="Author Order"/>
