@@ -69,12 +69,12 @@ date_format = "Jan 2006"
   description = """
   Research:
   
-  * Geography, ecological context, and evolution of subterranean termites 
+  * Evolutionary history of subterranean termites in the geographic and ecological context of the Appalachian Mountains
   
-   * Ecological drivers of geographic distributions and niche divergence of subterranean termite species
-   * The role of glacial-interglacial climate change in shaping the geographic distribution and evolutionary history of subterranean termites
-   * Genetic variation, epigenetic regulation and gene-environment associations across landscapes
-   * Capturing population structure and landscape connectivity by modeling neutral and adaptive genetic variation across space 
+   * Ecological drivers of species distributions and niche overlap for three subterranean termite species in the southern Appalachian Mountains
+   * The role of glacial-interglacial climate change in shaping the genetic structure of eastern subterranean termites in the southern Appalachian Mountains
+   * Tree canopy cover and species richness in the Appalachian Mountains modulate epigenetic changes in the eastern subterranean termite
+   * A novel metric that captures functional landscape connectivity at multiple scales, from alleles to communities
   """
 [[experience]]
   title = "Graduate Teaching Assistant"
