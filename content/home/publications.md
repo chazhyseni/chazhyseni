@@ -64,9 +64,14 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
+
+  # insert below
+  # <img src="publication/wordcloud_shape.png" style="position:relative; left:40px" width="95%" alt="WordCloud"/>
+  # <img src="publication/AuthOrd.png" style="position:relative; left:20px" width="75%" alt="Author Order"/>
+
 +++
 
-<img src="publication/wordcloud_shape.png" style="position:relative; left:40px" width="95%" alt="WordCloud"/>
 
  = Equal Contribution
 
@@ -158,6 +163,3 @@ subtitle = ""
  1. Michael A Russello, <b><i>Chaz Hyseni</i></b>, James P Gibbs, S Cruz, Cruz Marquez, Washington Tapia, P Velensky, Jeffrey R Powell, Adalgisa Caccone: <i>Lineage identification of Galapagos tortoises in captivity worldwide.</i> Animal Conservation, 2007.
 <embed src="publication/Russelloetal2007.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
 
-# = Equal Contribution
-
-# <img src="publication/AuthOrd.png" style="position:relative; left:20px" width="75%" alt="Author Order"/>
