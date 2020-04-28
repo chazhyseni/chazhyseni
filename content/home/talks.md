@@ -69,23 +69,19 @@ subtitle = ""
 
 +++
 
-* Invited Talks:
-
- * LSU Museum of Natural Science Seminar Series (17 Mar 2017, Baton Rouge LA): <b><i>Phylogeography of the eastern subterranean termite Reticulitermes flavipes: demographic history and niche evolution in the Appalachian Mountains</i></b>
-
-* Conference Talks:
-
- * North American Regional Association of the International Association for Landscape Ecology: Landscape Genetics Symposium (7-11 Apr 2019, Fort Collins CO): <b><i>Landscape connectivity: neutral and adaptive genetic variation across space</i></b> <embed src="talk/IALE2019_ChazHyseni_LandGenTalk.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ - North American Regional Association of the International Association for Landscape Ecology: Landscape Genetics Symposium (7-11 Apr 2019, Fort Collins CO): *Landscape connectivity: neutral and adaptive genetic variation across space*
  
- * University of Mississippi Graduate Student Council 9th Annual Research Symposium (26 Mar 2019, Oxford MS): <b><i>Ecological drivers of subterranean termite distributions</i></b>
+ - University of Mississippi Graduate Student Council 9th Annual Research Symposium (26 Mar 2019, Oxford MS): *Ecological drivers of subterranean termite distributions*
  
- * Ecological Society of America: Statistical Ecology Section (5-10 Aug 2018, New Orleans LA): <b><i>Capturing population structure and landscape connectivity by modeling neutral and adaptive genetic variation across space</i></b>
+ - Ecological Society of America: Statistical Ecology Section (5-10 Aug 2018, New Orleans LA): *Capturing population structure and landscape connectivity by modeling neutral and adaptive genetic variation across space*
 
- * University of Mississippi Graduate Student Council 8th Annual Research Symposium (20 Mar 2018, Oxford MS): <b><i>Landscape connectivity: neutral and adaptive genetic variation across space</i></b>
+ - University of Mississippi Graduate Student Council 8th Annual Research Symposium (20 Mar 2018, Oxford MS): *Landscape connectivity: neutral and adaptive genetic variation across space*
 
- * Entomological Society of America (4-8 Nov 2017, Denver CO): <b><i>Evolutionary history of eastern subterranean termites: distributional shifts and postglacial expansion in the Appalachian Mountains</i></b> <embed src="talk/Entomology2017_ChazHyseni_TermitePhylogeographyTalk.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ - Entomological Society of America (4-8 Nov 2017, Denver CO): *Evolutionary history of eastern subterranean termites: distributional shifts and postglacial expansion in the Appalachian Mountains*
 
- * University of Mississippi Research Showcase (31 Mar 2017, Oxford MS): <b><i>Inferring the eastern subterranean termite's evolutionary past: history of dispersal and habitat utilization in the Appalachians</i></b>
+ - University of Mississippi Research Showcase (31 Mar 2017, Oxford MS): *Inferring the eastern subterranean termite's evolutionary past: history of dispersal and habitat utilization in the Appalachians*
 
- * University of Mississippi Graduate Student Council 7th Annual Research Symposium (2 Mar 2017, Oxford MS): <b><i>Genetic variation and geographic distribution of subterranean termites in the Appalachians</i></b>
+ - LSU Museum of Natural Science Seminar Series (17 Mar 2017, Baton Rouge LA): *Phylogeography of the eastern subterranean termite Reticulitermes flavipes: demographic history and niche evolution in the Appalachian Mountains*
+
+ - University of Mississippi Graduate Student Council 7th Annual Research Symposium (2 Mar 2017, Oxford MS): *Genetic variation and geographic distribution of subterranean termites in the Appalachians*
 
