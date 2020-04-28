@@ -65,14 +65,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">wrapping up this PhD chapter soon. defense date set: 4/22 (<a href="https://t.co/IL3CxG8uhw">https://t.co/IL3CxG8uhw</a>)<br>postdoctoral chapter location/date TBD<a href="https://t.co/2nsi4SfELx">https://t.co/2nsi4SfELx</a><a href="https://t.co/CAPbAgiaSM">https://t.co/CAPbAgiaSM</a></p>&mdash; Chaz Hyseni (@chazbvb09) <a href="https://twitter.com/chazbvb09/status/1221102226195865601?ref_src=twsrc%5Etfw">January 25, 2020</a></blockquote> 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">based on word choice in my publications, i must be into <a href="https://twitter.com/hashtag/popgen?src=hash&amp;ref_src=twsrc%5Etfw">#popgen</a><br>(<a href="https://t.co/2nsi4SfELx">https://t.co/2nsi4SfELx</a>) <a href="https://t.co/bHWI1NvCtP">pic.twitter.com/bHWI1NvCtP</a></p>&mdash; Chaz Hyseni (@chazbvb09) <a href="https://twitter.com/chazbvb09/status/1187947506325491712?ref_src=twsrc%5Etfw">October 26, 2019</a></blockquote> 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Kudos for sharing your data openly. Re-users should cite the data too! <a href="https://t.co/sMon7wASEX">https://t.co/sMon7wASEX</a> <a href="https://t.co/g31LxOP6DU">https://t.co/g31LxOP6DU</a>  <a href="https://twitter.com/hashtag/OpenData?src=hash&amp;ref_src=twsrc%5Etfw">#OpenData</a> <a href="https://t.co/DsozN9x4XS">https://t.co/DsozN9x4XS</a></p>&mdash; Dryad (@datadryad) <a href="https://twitter.com/datadryad/status/1120322745340956673?ref_src=twsrc%5Etfw">April 22, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Now online! Open access <a href="https://twitter.com/Ecol_Evol?ref_src=twsrc%5Etfw">@Ecol_Evol</a> <a href="https://t.co/HX7kh4Bhzz">https://t.co/HX7kh4Bhzz</a><br>The effect of climate change in the last ~100,000 years on genetic differentiation, distributional shifts, and demographic/geographic expansion of subterranean termites! <a href="https://t.co/hKIi3QBCG4">https://t.co/hKIi3QBCG4</a></p>&mdash; Chaz Hyseni (@chazbvb09) <a href="https://twitter.com/chazbvb09/status/1113851625184145409?ref_src=twsrc%5Etfw">April 4, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

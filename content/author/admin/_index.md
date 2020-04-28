@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Chaz Hyseni"
+name = "Chaz Hyseni, Ph.D."
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Ph.D. Candidate"
+#role = "Ph.D. Candidate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "University of Mississippi", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Chaz Hyseni is a Ph.D. candidate in the Department of Biology at the University of Mississippi. For his Ph.D. work, he has been investigating spatio-temporal patterns of genetic variation, and the role of epigenetic regulation and phenotypic plasticity in the adaptive evolution of subterranean termites in the Appalachian Mountains."
+bio = "Chaz Hyseni is a Ph.D. candidate in the Department of Biology at the University of Mississippi. For his Ph.D. work, he investigated spatio-temporal patterns of genetic variation, and the role of DNA methylation in the contemporary evolution of subterranean termites in the Appalachian Mountains."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "chaz.hyseni@gmail.com"
@@ -94,4 +94,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I have been doing research in the field of Population Genetics since 2006. I am interested in the distribution of genetic variation (both neutral and adaptive) in natural environments, at different spatial and temporal scales (from Landscape Genetics to Phylogeography). To understand pattern and process, I use empirical data as well as spatial eco-evolutionary modeling. I am currently a Ph.D. candidate in the Department of Biology at the University of Mississippi. The focal organism of my Ph.D. work is the eastern subterranean termite in the Appalachian Mountains. In addition to reconstructing the spatial and temporal patterns of genetic variation, my goal is to find out how epigenetic regulation and phenotypic plasticity have contributed to the adaptive evolution of subterranean termites.
+I have been doing research in the field of Population Genetics since 2006. I am interested in the distribution of genetic variation (both neutral and adaptive) in natural environments, at different spatial and temporal scales (from Landscape Genetics to Phylogeography). To understand pattern and process, I use empirical data as well as spatial eco-evolutionary modeling. I received my Ph.D. in Biological Science from the University of Mississippi in 2020. The focal organism of my Ph.D. work was the eastern subterranean termite, <i>Reticulitermes flavipes<\i>. I examined geographic and environmental influences at historical and contemporary timescales, including niche divergence of <i>R. flavipes<\i> from geographically overlapping <i>Reticulitermes<\i> species, and genetic divergence within the species. In addition to these historical eco-evolutionary processes, at the contemporary timescale I investigated how epigenetic mechanisms--specifically, DNA methylation--facilitate rapid responses to human-mediated disturbance of forest ecosystems. Finally, I developed a new landscape connectivity metric to help understand the impact spatial heterogeneity of environments has on biological diversity at multiple levels of organization, from alleles to communities.
