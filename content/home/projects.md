@@ -78,11 +78,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<blockquote class="github"><h4><a href="https://github.com/chazhyseni/msaflp">Epigenetic Variation (via Methylation-Sensitive AFLP) in Eastern Subterranean Termites: Data, Scripts, Results</a></h4></blockquote>
+[Epigenetic Variation in Eastern Subterranean Termites: Data, Scripts, Results](https://github.com/chazhyseni/msaflp)
 
-<blockquote class="github"><h4><a href="https://github.com/chazhyseni/MSconn">MSconn: Multi-scale Landscape Connectivity</a></h4></blockquote>
+[MSconn: Multi-Scale Landscape Connectivity](https://github.com/chazhyseni/MSconn)
 
-<blockquote class="github"><h4><a href="https://chazhyseni.github.io/NALgen">NALgen: Neutral and Adaptive Landscape Genetics</a></h4></blockquote>
+[NALgen: Neutral and Adaptive Landscape Genetics](https://chazhyseni.github.io/NALgen)
 
-<blockquote class="datadryad"><h4><a href="https://datadryad.org/resource/doi:10.5061/dryad.5hr7f31">Data from: The role of glacial-interglacial climate change in shaping the genetic structure of eastern subterranean termites in the southern Appalachian Mountains, USA</a></h4></blockquote>
+[Data from: The role of glacial-interglacial climate change in shaping the genetic structure of eastern subterranean termites in the southern Appalachian Mountains, USA](https://datadryad.org/resource/doi:10.5061/dryad.5hr7f31)
 
