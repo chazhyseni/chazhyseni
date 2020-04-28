@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-#role = "Ph.D. Candidate"
+#role = "PostDoc"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "University of Mississippi", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Chaz Hyseni is a Ph.D. candidate in the Department of Biology at the University of Mississippi. For his Ph.D. work, he investigated spatio-temporal patterns of genetic variation, and the role of DNA methylation in the contemporary evolution of subterranean termites in the Appalachian Mountains."
+bio = "Chaz Hyseni received his Ph.D. in Biological Science from the University of Mississippi. For his Ph.D. work, he investigated spatio-temporal patterns of genetic variation, and the role of DNA methylation in the contemporary evolution of subterranean termites in the Appalachian Mountains."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "chaz.hyseni@gmail.com"
@@ -31,7 +31,7 @@ interests = [
   "Landscape Genetics",
   "Population Genetics",
   "Phylogeography",
-  "Spatial Genetics",
+  "Spatial Statistics",
   "Statistical Modeling",
 ]
 
