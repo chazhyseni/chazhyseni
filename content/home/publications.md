@@ -72,122 +72,65 @@ subtitle = ""
 
 +++
 
+= Equal Contribution
 
- = Equal Contribution
-
- 30. Ryan C Garrick, <b><i>Chaz Hyseni</i></b>, Isis Arantes: <i>Efficient summary statistics for detecting lineage fusion from phylogeographic datasets.</i> Journal of Biogeography, In Press.
+ 30. Ryan C Garrick, **Chaz Hyseni**, Isis Arantes: *Efficient summary statistics for detecting lineage fusion from phylogeographic datasets.* Journal of Biogeography, In Press.
  
- 29. Norah Saarman, Rosemary Bateta, Kirstin Dion, TJ Johnson, <b><i>Chaz Hyseni</i></b>, Winnie Okeyo, Paul Mireji, Sylvance Okoth, Grace Murilla, Serap Aksoy, Adalgisa Caccone: <i>Finding sources of re-infestation: Spatial scale of genetic connectivity of tsetse populations along the Ugandan and Kenyan shore of Lake Victoria.</i> American Journal of Tropical Medicine and Hygiene, In Press.
+ 29. Norah Saarman, Rosemary Bateta, Kirstin Dion, TJ Johnson, **Chaz Hyseni**, Winnie Okeyo, Paul Mireji, Sylvance Okoth, Grace Murilla, Serap Aksoy, Adalgisa Caccone: *Finding sources of re-infestation: Spatial scale of genetic connectivity of tsetse populations along the Ugandan and Kenyan shore of Lake Victoria.* American Journal of Tropical Medicine and Hygiene, In Press.
  
- 28. Daniela I Schneider, Norah Saarman, Maria G Onyango, <b><i>Chaz Hyseni</i></b>, Robert Opiro, Richard Echodu, Michelle O'Neill, Danielle Bloch, Aurelien Vigneron, TJ Johnson, Kirstin Dion, Brian L Weiss, Elizabeth Opiyo, Adalgisa Caccone, Serap Aksoy: <i>Spatio-temporal distribution of Spiroplasma infections in the tsetse fly (Glossina fuscipes fuscipes) in northern Uganda.</i> PLoS Neglected Tropical Diseases, 2019.
- 
- <embed src="publication/Schneideretal2019_SpiroplasmaTsetse.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 28. Ryan C Garrick, **Chaz Hyseni**, Isis Arantes: *Efficient summary statistics for detecting lineage fusion from phylogeographic datasets.* Journal of Biogeography, In Press.  29. Norah Saarman, Rosemary Bateta, Kirstin Dion, TJ Johnson, **Chaz Hyseni**, Winnie Okeyo, Paul Mireji, Sylvance Okoth, Grace Murilla, Serap Aksoy, Adalgisa Caccone: *Finding sources of re-infestation: Spatial scale of genetic connectivity of tsetse populations along the Ugandan and Kenyan shore of Lake Victoria.* American Journal of Tropical Medicine and Hygiene, In Press.  28. Daniela I Schneider, Norah Saarman, Maria G Onyango, **Chaz Hyseni**, Robert Opiro, Richard Echodu, Michelle O'Neill, Danielle Bloch, Aurelien Vigneron, TJ Johnson, Kirstin Dion, Brian L Weiss, Elizabeth Opiyo, Adalgisa Caccone, Serap Aksoy: *Spatio-temporal distribution of Spiroplasma infections in the tsetse fly (Glossina fuscipes fuscipes) in northern Uganda.* PLoS Neglected Tropical Diseases, 2019. [PDF](publication/Schneideretal2019_SpiroplasmaTsetse.pdf)
 
- 27. <b><i>Chaz Hyseni</i></b>, Ryan C Garrick: <i>The role of glacial-interglacial climate change in shaping the genetic structure of eastern subterranean termites in the southern Appalachian Mountains, USA.</i> Ecology and Evolution, 2019.
- 
- <embed src="publication/HyseniGarrick2019_RflavipesPhylogeography.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 27. **Chaz Hyseni**, Ryan C Garrick: *The role of glacial-interglacial climate change in shaping the genetic structure of eastern subterranean termites in the southern Appalachian Mountains, USA.* Ecology and Evolution, 2019. [PDF](publication/HyseniGarrick2019_RflavipesPhylogeography.pdf)
 
- 26. Ryan C Garrick, Dana K Reppel, Jeremy T Morgan, Stephanie Burgess, <b><i>Chaz Hyseni</i></b>, Reese J Worthington, Michael D Ulyshen: <i>Trophic interactions among dead-wood-dependent forest arthropods in the southern Appalachian Mountains, USA.</i> Food Webs, 2019.
- 
- <embed src="publication/Garricketal2019_FoodWebs.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 26. Ryan C Garrick, Dana K Reppel, Jeremy T Morgan, Stephanie Burgess, **Chaz Hyseni**, Reese J Worthington, Michael D Ulyshen: *Trophic interactions among dead-wood-dependent forest arthropods in the southern Appalachian Mountains, USA.* Food Webs, 2019. [PDF](publication/Garricketal2019_FoodWebs.pdf)
 
- 25. Ryan C Garrick, John D Banusiewicz, Stephanie Burgess, <b><i>Chaz Hyseni</i></b>, Rebecca E Symula: <i>Extending phylogeography to account for lineage fusion.</i> Journal of Biogeography, 2019.
- 
- <embed src="publication/Garricketal2019_LineageFusion.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 25. Ryan C Garrick, John D Banusiewicz, Stephanie Burgess, **Chaz Hyseni**, Rebecca E Symula: *Extending phylogeography to account for lineage fusion.* Journal of Biogeography, 2019. [PDF](publication/Garricketal2019_LineageFusion.pdf))
 
- 24. <b><i>Chaz Hyseni</i></b>, Ryan C Garrick: <i>Ecological drivers of species distributions and niche overlap for three subterranean termite species in the southern Appalachian Mountains, USA.</i> Insects, 2019.
- 
- <embed src="publication/HyseniGarrick2019_NicheOverlapRetSpp.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 24. **Chaz Hyseni**, Ryan C Garrick: *Ecological drivers of species distributions and niche overlap for three subterranean termite species in the southern Appalachian Mountains, USA.* Insects, 2019. [PDF](publication/HyseniGarrick2019_NicheOverlapRetSpp.pdf)
 
- 23. Norah P Saarman, Robert Opiro, <b><i>Chaz Hyseni</i></b>, Richard Echodu, Elizabeth A Opiyo, Kirstin Dion, Thomas Johnson, Serap Aksoy, Adalgisa Caccone: <i>The population genomics of multiple tsetse fly (Glossina fuscipes fuscipes) admixture zones in Uganda.</i> Molecular Ecology, 2019.
- 
- <embed src="publication/Saarmanetal2018_Admixture.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 23. Norah P Saarman, Robert Opiro, **Chaz Hyseni**, Richard Echodu, Elizabeth A Opiyo, Kirstin Dion, Thomas Johnson, Serap Aksoy, Adalgisa Caccone: *The population genomics of multiple tsetse fly (Glossina fuscipes fuscipes) admixture zones in Uganda.* Molecular Ecology, 2019. [PDF](publication/Saarmanetal2018_Admixture.pdf)
 
- 22. Norah Saarman, Mary Burak, Robert Opiro, <b><i>Chaz Hyseni</i></b>, Richard Echodu, Kirstin Dion, Elizabeth A Opiyo, Augustine W Dunn, Giuseppe Amatulli, Serap Aksoy, Adalgisa Caccone: <i>A spatial genetics approach to inform vector control of tsetse flies (Glossina fuscipes fuscipes ) in Northern Uganda.</i> Ecology and Evolution, 2018.
- 
- <embed src="publication/Saarmanetal2018_LandGen.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 22. Norah Saarman, Mary Burak, Robert Opiro, **Chaz Hyseni**, Richard Echodu, Kirstin Dion, Elizabeth A Opiyo, Augustine W Dunn, Giuseppe Amatulli, Serap Aksoy, Adalgisa Caccone: *A spatial genetics approach to inform vector control of tsetse flies (Glossina fuscipes fuscipes ) in Northern Uganda.* Ecology and Evolution, 2018. [PDF](publication/Saarmanetal2018_LandGen.pdf)
 
- 21. Agapitus B Kato, <b><i>Chaz Hyseni</i></b>, Loyce M Okedi, Johnson O Ouma, Serap Aksoy, Adalgisa Caccone, Charles Masembe: <i>Mitochondrial DNA sequence divergence and diversity of Glossina fuscipes fuscipes in the Lake Victoria basin of Uganda: implications for control.</i> Parasites and Vectors, 2015.
- 
- <embed src="publication/Katoetal2015.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 21. Agapitus B Kato, **Chaz Hyseni**, Loyce M Okedi, Johnson O Ouma, Serap Aksoy, Adalgisa Caccone, Charles Masembe: *Mitochondrial DNA sequence divergence and diversity of Glossina fuscipes fuscipes in the Lake Victoria basin of Uganda: implications for control.* Parasites and Vectors, 2015. [PDF](publication/Katoetal2015.pdf)
 
- 20. Ryan C Garrick, Isabel A S Bonatelli, <b><i>Chaz Hyseni</i></b>, Ariadna Morales, Tara A Pelletier, Manolo F Perez, Edwin Rice, Jordan D Satler, Rebecca E Symula, Maria Tereza C Thome, Bryan C Carstens: <i>The evolution of phylogeographic data sets.</i> Molecular Ecology, 2015.
- 
- <embed src="publication/Garricketal2015_PhylogeoDatasets.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 20. Ryan C Garrick, Isabel A S Bonatelli, **Chaz Hyseni**, Ariadna Morales, Tara A Pelletier, Manolo F Perez, Edwin Rice, Jordan D Satler, Rebecca E Symula, Maria Tereza C Thome, Bryan C Carstens: *The evolution of phylogeographic data sets.* Molecular Ecology, 2015. [PDF](publication/Garricketal2015_PhylogeoDatasets.pdf)
 
- 19. Ryan C Garrick, Brittney Kajdacsi, Michael A Russello, Edgar Benavides, <b><i>Chaz Hyseni</i></b>, James P Gibbs, Washington Tapia, Adalgisa Caccone: <i>Naturally rare versus newly rare: demographic inferences on two timescales inform conservation of Galapagos giant tortoises.</i> Ecology and Evolution, 2015.
- 
- <embed src="publication/Garricketal2015_TortsDemography.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 19. Ryan C Garrick, Brittney Kajdacsi, Michael A Russello, Edgar Benavides, **Chaz Hyseni**, James P Gibbs, Washington Tapia, Adalgisa Caccone: *Naturally rare versus newly rare: demographic inferences on two timescales inform conservation of Galapagos giant tortoises.* Ecology and Evolution, 2015. [PDF](publication/Garricketal2015_TortsDemography.pdf)
 
- 18. Ryan C Garrick, Benjamin D Collins, Rachel N Yi, Rodney J Dyer, <b><i>Chaz Hyseni</i></b>: <i>Identification of eastern United States Reticulitermes termite species via PCR-RFLP, assessed using training and test data.</i> Insects, 2015.
- 
- <embed src="publication/Garricketal2015_TermiteRFLP.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 18. Ryan C Garrick, Benjamin D Collins, Rachel N Yi, Rodney J Dyer, **Chaz Hyseni**: *Identification of eastern United States Reticulitermes termite species via PCR-RFLP, assessed using training and test data.* Insects, 2015. [PDF](publication/Garricketal2015_TermiteRFLP.pdf)
 
- 17. Ryan C Garrick, Edgar Benavides, Michael A Russello, <b><i>Chaz Hyseni</i></b>, Danielle L Edwards, James P Gibbs, Washington Tapia, Claudio Ciofi, Adalgisa Caccone: <i>Lineage fusion in Galapagos giant tortoises.</i> Molecular Ecology, 2014.
- 
- <embed src="publication/Garricketal2014.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 17. Ryan C Garrick, Edgar Benavides, Michael A Russello, **Chaz Hyseni**, Danielle L Edwards, James P Gibbs, Washington Tapia, Claudio Ciofi, Adalgisa Caccone: *Lineage fusion in Galapagos giant tortoises.* Molecular Ecology, 2014. [PDF](publication/Garricketal2014.pdf)
 
- 16. Sarah Federman, <b><i>Chaz Hyseni</i></b>, Wendy Clement, Michael P Oatham, Adalgisa Caccone: <i>Habitat fragmentation and the genetic structure of the Amazonian palm Mauritia flexuosa L.f. (Arecaceae) on the island of Trinidad.</i> Conservation Genetics, 2013.
- 
- <embed src="publication/Federmanetal2013.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 16. Sarah Federman, **Chaz Hyseni**, Wendy Clement, Michael P Oatham, Adalgisa Caccone: *Habitat fragmentation and the genetic structure of the Amazonian palm Mauritia flexuosa L.f. (Arecaceae) on the island of Trinidad.* Conservation Genetics, 2013. [PDF](publication/Federmanetal2013.pdf)
 
- 15. Brittney Kajdacsi, Federico Costa, <b><i>Chaz Hyseni</i></b>, Fleur Porter, Julia Brown, Gorete Rodrigues, Helena Farias, Mitermayer G Reis, James E Childs, Albert I Ko, Adalgisa Caccone: <i>Urban population genetics of slum-dwelling rats (Rattus norvegicus) in Salvador, Brazil.</i> Molecular Ecology, 2013.
- 
- <embed src="publication/Kajdacsietal2013.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 15. Brittney Kajdacsi, Federico Costa, **Chaz Hyseni**, Fleur Porter, Julia Brown, Gorete Rodrigues, Helena Farias, Mitermayer G Reis, James E Childs, Albert I Ko, Adalgisa Caccone: *Urban population genetics of slum-dwelling rats (Rattus norvegicus) in Salvador, Brazil.* Molecular Ecology, 2013. [PDF](publication/Kajdacsietal2013.pdf)
 
- 14. Danielle L Edwards, Edgar Benavides, Ryan C Garrick, James P Gibbs, Michael A Russello, Kirstin B Dion, <b><i>Chaz Hyseni</i></b>, Joseph P Flanagan, Washington Tapia, Adalgisa Caccone: <i>The genetic legacy of Lonesome George survives: giant tortoises with Pinta Island ancestry identified in Galapagos.</i> Biological Conservation, 2013.
- 
- <embed src="publication/Edwardsetal2013.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 14. Danielle L Edwards, Edgar Benavides, Ryan C Garrick, James P Gibbs, Michael A Russello, Kirstin B Dion, **Chaz Hyseni**, Joseph P Flanagan, Washington Tapia, Adalgisa Caccone: *The genetic legacy of Lonesome George survives: giant tortoises with Pinta Island ancestry identified in Galapagos.* Biological Conservation, 2013. [PDF](publication/Edwardsetal2013.pdf)
 
- 13. Mark Sistrom, Richard Echodu, <b><i>Chaz Hyseni</i></b>, John Enyaru, Serap Aksoy, Adalgisa Caccone: <i>Taking advantage of genomic data to develop reliable microsatellite loci in Trypanosoma brucei.</i> Molecular Ecology Resources, 2013. 
+ 13. Mark Sistrom, Richard Echodu, **Chaz Hyseni**, John Enyaru, Serap Aksoy, Adalgisa Caccone: *Taking advantage of genomic data to develop reliable microsatellite loci in Trypanosoma brucei.* Molecular Ecology Resources, 2013. [PDF](publication/Sistrometal2013.pdf)
 
- <embed src="publication/Sistrometal2013.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 12. Richard Echodu, Mark Sistrom, **Chaz Hyseni**, John Enyaru, Loyce Okedi, Serap Aksoy, Adalgisa Caccone: *Genetically distinct Glossina fuscipes fuscipes populations in the lake Kyoga region of Uganda and its relevance for human African trypanosomiasis.* BioMed Research International, 2013. [PDF](publication/Echoduetal2013.pdf)
 
- 12. Richard Echodu, Mark Sistrom, <b><i>Chaz Hyseni</i></b>, John Enyaru, Loyce Okedi, Serap Aksoy, Adalgisa Caccone: <i>Genetically distinct Glossina fuscipes fuscipes populations in the lake Kyoga region of Uganda and its relevance for human African trypanosomiasis.</i> BioMed Research International, 2013.
+ 11. Ryan C Garrick, Edgar Benavides, Michael A Russello, James P Gibbs, Nikos Poulakakis, Kirstin B Dion, **Chaz Hyseni**, Brittney Kajdacsi, Lady Marquez, Sarah Bahan, Claudio Ciofi, Washington Tapia, Adalgisa Caccone: *Genetic rediscovery of an 'extinct' Galapagos giant tortoise species.* Current Biology, 2012 [PDF](publication/Garricketal2012.pdf)
 
- <embed src="publication/Echoduetal2013.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 10. Uzma Alam=, **Chaz Hyseni**=, Rebecca E Symula, Corey Brelsfoard, Yineng Wu, Oleg Kruglov, Jingwen Wang, Richard Echodu, Victor Alioni, Loyce M Okedi, Adalgisa Caccone, Serap Aksoy: *Implications of microfauna-host interactions for trypanosome transmission dynamics in Glossina fuscipes fuscipes in Uganda.* Applied and Environmental Microbiology, 2012 [PDF](publication/AlamHysenietal2012.pdf)
 
- 11. Ryan C Garrick, Edgar Benavides, Michael A Russello, James P Gibbs, Nikos Poulakakis, Kirstin B Dion, <b><i>Chaz Hyseni</i></b>, Brittney Kajdacsi, Lady Marquez, Sarah Bahan, Claudio Ciofi, Washington Tapia, Adalgisa Caccone: <i>Genetic rediscovery of an 'extinct' Galapagos giant tortoise species.</i> Current Biology, 2012
+ 9. Sarah Federman, **Chaz Hyseni**, Wendy Clement, Adalgisa Caccone: *Isolation of 13 novel highly polymorphic microsatellite loci for the Amazonian Palm Mauritia flexuosa L.f. (Arecaceae).* Conservation Genetics Resources, 2012. [PDF](publication/Federmanetal2012.pdf)
 
- <embed src="publication/Garricketal2012.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 8. **Chaz Hyseni**=, Agapitus B Kato=, Loyce M Okedi, Charles Masembe, Johnson O Ouma, Serap Aksoy, Adalgisa Caccone: *The population structure of Glossina fuscipes fuscipes in the Lake Victoria basin in Uganda: implications for vector control.* Parasites and Vectors, 2012. [PDF](publication/Hysenietal2012.pdf)
 
- 10. Uzma Alam=, <b><i>Chaz Hyseni</i></b>=, Rebecca E Symula, Corey Brelsfoard, Yineng Wu, Oleg Kruglov, Jingwen Wang, Richard Echodu, Victor Alioni, Loyce M Okedi, Adalgisa Caccone, Serap Aksoy: <i>Implications of microfauna-host interactions for trypanosome transmission dynamics in Glossina fuscipes fuscipes in Uganda.</i> Applied and Environmental Microbiology, 2012
+ 7. **Chaz Hyseni**, Jon S Beadell, Zaneli Gomez Ocampo, Johnson O Ouma, Loyce M Okedi, Michael W Gaunt, Adalgisa Caccone: *The G.m. morsitans (Diptera: Glossinidae) genome as a source of microsatellite markers for other tsetse fly (Glossina) species.* Molecular Ecology Resources, 2011. [PDF](publication/Hysenietal2011.pdf)
 
- <embed src="publication/AlamHysenietal2012.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 6. Johnson O Ouma, Jon S Beadell, **Chaz Hyseni**, Loyce M Okedi, Elliot S Krafsur, Serap Aksoy, Adalgisa Caccone: *Genetic diversity and population structure of Glossina pallidipes in Uganda and western Kenya.* Parasites and Vectors, 2011. [PDF](publication/Oumaetal2011.pdf)
 
- 9. Sarah Federman, <b><i>Chaz Hyseni</i></b>, Wendy Clement, Adalgisa Caccone: <i>Isolation of 13 novel highly polymorphic microsatellite loci for the Amazonian Palm Mauritia flexuosa L.f. (Arecaceae).</i> Conservation Genetics Resources, 2012.
+ 5. Richard Echodu, Jon S Beadell, Loyce M Okedi, **Chaz Hyseni**, Serap Aksoy, Adalgisa Caccone: *Temporal stability of Glossina fuscipes fuscipes populations in Uganda.* Parasites and Vectors, 2011. [PDF](publication/Echoduetal2011.pdf)
 
- <embed src="publication/Federmanetal2012.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 4. Jon S Beadell, **Chaz Hyseni**, Patrick P Abila, Rogers Azabo, John C K Enyaru, Johnson O Ouma, Yassir O Mohammed, Loyce M Okedi, Serap Aksoy, Adalgisa Caccone: *Phylogeography and population structure of Glossina fuscipes fuscipes in Uganda: implications for control of tsetse.* PLoS Neglected Tropical Diseases, 2010. [PDF](publication/Beadelletal2010.pdf)
 
- 8. <b><i>Chaz Hyseni</i></b>=, Agapitus B Kato=, Loyce M Okedi, Charles Masembe, Johnson O Ouma, Serap Aksoy, Adalgisa Caccone: <i>The population structure of Glossina fuscipes fuscipes in the Lake Victoria basin in Uganda: implications for vector control.</i> Parasites and Vectors, 2012.
+ 3. Ylenia Chiari=, **Chaz Hyseni**=, Tom H Fritts, Scott Glaberman, Cruz Marquez, James P Gibbs, Julien Claude, Adalgisa Caccone: *Morphometrics parallel genetics in a newly discovered and endangered taxon of Galapagos tortoise.* PLoS ONE, 2009. [PDF](publication/ChiariHysenietal2009.pdf)
 
- <embed src="publication/Hysenietal2012.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 2. Patricia L R Brennan, **Chaz Hyseni**: *Development of microsatellite markers for parentage analysis in the great tinamou (Tinamus major).* Molecular Ecology Resources, 2008. [PDF](publication/BrennanHyseni2008.pdf)
 
- 7. <b><i>Chaz Hyseni</i></b>, Jon S Beadell, Zaneli Gomez Ocampo, Johnson O Ouma, Loyce M Okedi, Michael W Gaunt, Adalgisa Caccone: <i>The G.m. morsitans (Diptera: Glossinidae) genome as a source of microsatellite markers for other tsetse fly (Glossina) species.</i> Molecular Ecology Resources, 2011.
-
- <embed src="publication/Hysenietal2011.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
-
- 6. Johnson O Ouma, Jon S Beadell, <b><i>Chaz Hyseni</i></b>, Loyce M Okedi, Elliot S Krafsur, Serap Aksoy, Adalgisa Caccone: <i>Genetic diversity and population structure of Glossina pallidipes in Uganda and western Kenya.</i> Parasites and Vectors, 2011.
-
- <embed src="publication/Oumaetal2011.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
-
- 5. Richard Echodu, Jon S Beadell, Loyce M Okedi, <b><i>Chaz Hyseni</i></b>, Serap Aksoy, Adalgisa Caccone: <i>Temporal stability of Glossina fuscipes fuscipes populations in Uganda.</i> Parasites and Vectors, 2011.
-
- <embed src="publication/Echoduetal2011.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
-
- 4. Jon S Beadell, <b><i>Chaz Hyseni</i></b>, Patrick P Abila, Rogers Azabo, John C K Enyaru, Johnson O Ouma, Yassir O Mohammed, Loyce M Okedi, Serap Aksoy, Adalgisa Caccone: <i>Phylogeography and population structure of Glossina fuscipes fuscipes in Uganda: implications for control of tsetse.</i> PLoS Neglected Tropical Diseases, 2010.
-
- <embed src="publication/Beadelletal2010.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
-
- 3. Ylenia Chiari=, <b><i>Chaz Hyseni</i></b>=, Tom H Fritts, Scott Glaberman, Cruz Marquez, James P Gibbs, Julien Claude, Adalgisa Caccone: <i>Morphometrics parallel genetics in a newly discovered and endangered taxon of Galapagos tortoise.</i> PLoS ONE, 2009.
-
- <embed src="publication/ChiariHysenietal2009.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
-
- 2. Patricia L R Brennan, <b><i>Chaz Hyseni</i></b>: <i>Development of microsatellite markers for parentage analysis in the great tinamou (Tinamus major).</i> Molecular Ecology Resources, 2008.
-
- <embed src="publication/BrennanHyseni2008.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
-
- 1. Michael A Russello, <b><i>Chaz Hyseni</i></b>, James P Gibbs, S Cruz, Cruz Marquez, Washington Tapia, P Velensky, Jeffrey R Powell, Adalgisa Caccone: <i>Lineage identification of Galapagos tortoises in captivity worldwide.</i> Animal Conservation, 2007.
-
-<embed src="publication/Russelloetal2007.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="400px" />
+ 1. Michael A Russello, **Chaz Hyseni**, James P Gibbs, S Cruz, Cruz Marquez, Washington Tapia, P Velensky, Jeffrey R Powell, Adalgisa Caccone: *Lineage identification of Galapagos tortoises in captivity worldwide.* Animal Conservation, 2007. [PDF](publication/Russelloetal2007.pdf)
 
