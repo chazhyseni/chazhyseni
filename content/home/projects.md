@@ -84,5 +84,5 @@ subtitle = ""
 
 [NALgen: Neutral and Adaptive Landscape Genetics](https://chazhyseni.github.io/NALgen)
 
-[Data from: The role of glacial-interglacial climate change in shaping the genetic structure of eastern subterranean termites in the southern Appalachian Mountains, USA](https://datadryad.org/resource/doi:10.5061/dryad.5hr7f31)
+[The role of glacial-interglacial climate change in shaping the genetic structure of eastern subterranean termites in the southern Appalachian Mts.](https://datadryad.org/resource/doi:10.5061/dryad.5hr7f31)
 
