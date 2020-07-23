@@ -13,7 +13,7 @@ role = "Postdoctoral Researcher"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Department of Ecology and Genetics, Evolutionary Biology Centre, Uppsala University", url = "" } ]
+organizations = [ { name = "Department of Ecology and Genetics", url = "https://www.ieg.uu.se/?languageId=1" }, { name = "Evolutionary Biology Centre", url = "https://www.ebc.uu.se/?languageId=1" }, { name = "Uppsala University", url = "https://www.uu.se/en" },  ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Chaz Hyseni received his Ph.D. in Biological Science from the University of Mississippi. For his Ph.D. work, he investigated spatio-temporal patterns of genetic variation, and the role of DNA methylation in the contemporary evolution of subterranean termites in the Appalachian Mountains."
