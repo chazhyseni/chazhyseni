@@ -74,9 +74,9 @@ subtitle = ""
 
 = Equal Contribution
 
-1. Ryan C Garrick, **Chaz Hyseni**, Isis Arantes: *Efficient summary statistics for detecting lineage fusion from phylogeographic datasets.* Journal of Biogeography, In Press.
+1. Norah Saarman, Rosemary Bateta, Kirstin Dion, TJ Johnson, **Chaz Hyseni**, Winnie Okeyo, Paul Mireji, Sylvance Okoth, Grace Murilla, Serap Aksoy, Adalgisa Caccone: *Finding sources of re-infestation: Spatial scale of genetic connectivity of tsetse populations along the Ugandan and Kenyan shore of Lake Victoria.* American Journal of Tropical Medicine and Hygiene, In Press.
  
-2. Norah Saarman, Rosemary Bateta, Kirstin Dion, TJ Johnson, **Chaz Hyseni**, Winnie Okeyo, Paul Mireji, Sylvance Okoth, Grace Murilla, Serap Aksoy, Adalgisa Caccone: *Finding sources of re-infestation: Spatial scale of genetic connectivity of tsetse populations along the Ugandan and Kenyan shore of Lake Victoria.* American Journal of Tropical Medicine and Hygiene, In Press.
+2. Ryan C Garrick, **Chaz Hyseni**, Isis Arantes: *Efficient summary statistics for detecting lineage fusion from phylogeographic datasets.* Journal of Biogeography, 2020. [PDF](publication/Garricketal2020_SummaryStats.pdf)
  
 3. Daniela I Schneider, Norah Saarman, Maria G Onyango, **Chaz Hyseni**, Robert Opiro, Richard Echodu, Michelle O'Neill, Danielle Bloch, Aurelien Vigneron, TJ Johnson, Kirstin Dion, Brian L Weiss, Elizabeth Opiyo, Adalgisa Caccone, Serap Aksoy: *Spatio-temporal distribution of Spiroplasma infections in the tsetse fly (Glossina fuscipes fuscipes) in northern Uganda.* PLoS Neglected Tropical Diseases, 2019. [PDF](publication/Schneideretal2019_SpiroplasmaTsetse.pdf)
 
