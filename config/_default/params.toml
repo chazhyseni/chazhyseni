@@ -87,9 +87,9 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 3
 map_api_key = "pk.eyJ1IjoiY2hhemJ2YjA5IiwiYSI6ImNqbDFrMWFzNTA5eGwzdm4zNTVmdnVreDkifQ.a1nIXsIL6loSRM2KH2B4cA"
-latitude = "59.8501017"
-longitude = "17.6215948"
-zoom = 16
+latitude = "59.84957"
+longitude = "17.62372"
+zoom = 15
 
 ############################
 ## Plugins                ##
