@@ -104,5 +104,17 @@ date_format = "Jan 2006"
   * Fall 2019 (Awarded <b><i>University of Mississippi Graduate School Dissertation Fellowship</i></b>)
   * Summer 2015-2018 (Awarded <b><i>University of Mississippi Graduate School Summer Research Fellowship</i></b>)
   """
+[[experience]]
+  title = "Postdoctoral Researcher"
+  company = "Uppsala University"
+  company_url = ""
+  location = "Uppsala, Sweden"
+  date_start = "2020-08-31"
+  date_end = ""
+  description = """
+  Research:
+  
+  * Community genetics in an urban ecological context: connectivity among populations/communities and the relationship between genetic diversity (within populations) and species diversity (within communities)
+  """
 
 +++

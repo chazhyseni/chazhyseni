@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "chaz.hyseni@gmail.com"
 #phone = ""
-address = "Shoemaker Hall, Department of Biology, University of Mississippi, University MS, 38677, USA"
+address = "Department of Ecology and Genetics, Uppsala University, Norbyvägen 18D, 75236 Uppsala, Sweden"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
@@ -87,9 +87,9 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 3
 map_api_key = "pk.eyJ1IjoiY2hhemJ2YjA5IiwiYSI6ImNqbDFrMWFzNTA5eGwzdm4zNTVmdnVreDkifQ.a1nIXsIL6loSRM2KH2B4cA"
-latitude = "34.36465"
-longitude = "-89.53346"
-zoom = 15
+latitude = "59.8492756"
+longitude = "17.6213242"
+zoom = 16
 
 ############################
 ## Plugins                ##
