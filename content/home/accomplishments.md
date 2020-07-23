@@ -47,15 +47,15 @@ date_format = "Jan 2006"
   date_start = "2014-09-29"
   date_end = ""
   description = """
-  10 reviews:  
+  Reviews (10):
   
-  Bulletin of Entomological Research (3)  
-  Molecular Ecology (2)  
-  Animal Microbiome (1)  
-  Communications Biology (1)  
-  Ecology and Evolution (1)  
-  Infection, Genetics and Evolution (1)  
-  PLoS Neglected Tropical Diseases (1)
+  * Bulletin of Entomological Research (3)  
+  * Molecular Ecology (2)  
+  * Animal Microbiome (1)  
+  * Communications Biology (1)  
+  * Ecology and Evolution (1)  
+  * Infection, Genetics and Evolution (1)  
+  * PLoS Neglected Tropical Diseases (1)
   """
 [[item]]
   organization = "MDPI Insects"
@@ -65,6 +65,17 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-06-22"
   date_end = ""
-  description = ""
+  description = """
+  Interests:
+  
+  * Climate Change
+  * Community Genetics
+  * Ecological Genetics
+  * Ecological Epigenetics
+  * Landscape Connectivity
+  * Metacommunities
+  * Phylogeography
+  * Spatial Eco-Evolutionary Modeling
+  """
 
 +++
