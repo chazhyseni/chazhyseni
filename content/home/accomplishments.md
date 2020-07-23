@@ -41,13 +41,22 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Publons"
   organization_url = ""
-  title = "Publons Profile"
+  title = "Reviewer"
   url = "http://publons.com/author/398466/"
   certificate_url = ""
   date_start = "2014-09-29"
   date_end = ""
-  description = "10 reviews: Bulletin of Entomological Research (3); Molecular Ecology (2); Animal Microbiome (1); Communications Biology (1); Ecology and Evolution (1); Infection, Genetics and Evolution (1); PLoS Neglected Tropical Diseases (1)"
-
+  description = """
+  10 reviews:  
+  
+  Bulletin of Entomological Research (3)  
+  Molecular Ecology (2)  
+  Animal Microbiome (1)  
+  Communications Biology (1)  
+  Ecology and Evolution (1)  
+  Infection, Genetics and Evolution (1)  
+  PLoS Neglected Tropical Diseases (1)
+  """
 [[item]]
   organization = "MDPI Insects"
   organization_url = ""
