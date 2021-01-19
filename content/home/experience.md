@@ -60,6 +60,18 @@ date_format = "Jan 2006"
    * Operation and maintenance of sequencing equipment and software
   """
 [[experience]]
+  title = "Graduate Research Assistant"
+  company = "Cornell University"
+  company_url = ""
+  location = "Ithaca, New York, USA"
+  date_start = "2012-08-20"
+  date_end = "2013-08-31"
+  description = """
+  Research:
+  
+  * Conservation genetics: spatio-temporal genetic variation and gene-environment association in the eastern oyster
+  """
+[[experience]]
   title = "Ph.D. Student"
   company = "University of Mississippi"
   company_url = ""

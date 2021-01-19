@@ -47,14 +47,15 @@ date_format = "Jan 2006"
   date_start = "2014-09-29"
   date_end = ""
   description = """
-  Reviews (10):
+  Reviews (12):
   
   * Bulletin of Entomological Research (3)  
+  * Communications Biology (2)  
   * Molecular Ecology (2)  
   * Animal Microbiome (1)  
-  * Communications Biology (1)  
   * Ecology and Evolution (1)  
   * Infection, Genetics and Evolution (1)  
+  * Insects (1)  
   * PLoS Neglected Tropical Diseases (1)
   """
 [[item]]
