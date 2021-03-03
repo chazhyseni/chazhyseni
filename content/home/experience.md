@@ -126,7 +126,7 @@ date_format = "Jan 2006"
   description = """
   Research:
   
-  * Community genetics in an urban ecological context: connectivity among populations/communities and the relationship between genetic diversity (within populations) and species diversity (within communities)
+  * Community genetics in an urban ecological context: connectivity among invertebrate populations/communities in urban ponds and the relationship between genetic diversity (in meta-populations) and species diversity (in meta-communities).
   """
 
 +++

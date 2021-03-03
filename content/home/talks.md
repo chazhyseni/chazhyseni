@@ -69,7 +69,7 @@ subtitle = ""
 
 +++
 
- - Yale University (27 May 2020, New Haven CT); Uppsala University (22 Oct 2020, Uppsala, Sweden): *Epigenetic change in the eastern subterranean termite modulated by ecological disturbance in Appalachian forest ecosystems*
+ - Yale University Center for Genetic Analysis of Biodiversity (27 May 2020, New Haven CT); Uppsala University (22 Oct 2020, Uppsala, Sweden): *Epigenetic change in the eastern subterranean termite modulated by ecological disturbance in Appalachian forest ecosystems*
 
  - North American Regional Association of the International Association for Landscape Ecology: Landscape Genetics Symposium (7-11 Apr 2019, Fort Collins CO): *Landscape connectivity: neutral and adaptive genetic variation across space*
  
