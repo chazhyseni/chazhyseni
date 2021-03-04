@@ -49,15 +49,15 @@ date_format = "Jan 2006"
 
   * Department of Ecology and Evolutionary Biology:
    
-   * Galapagos giant tortoise conservation research: phylogeography, speciation, hybridization
-   * Disease vector (tsetse) research: spatio-temporal patterns of genetic variation and host-parasite interactions
+   - Galapagos giant tortoise conservation research: phylogeography, speciation, hybridization
+   - Disease vector (tsetse) research: spatio-temporal patterns of genetic variation and host-parasite interactions
    
   Service:
   
   * DNA Analysis Facility on Science Hill:
   
-   * Training of staff/students in molecular techniques and data analysis
-   * Operation and maintenance of sequencing equipment and software
+   - Training of staff/students in molecular techniques and data analysis
+   - Operation and maintenance of sequencing equipment and software
   """
 [[experience]]
   title = "Graduate Research Assistant"
@@ -83,10 +83,10 @@ date_format = "Jan 2006"
   
   * Evolutionary history of subterranean termites in the geographic and ecological context of the Appalachian Mountains
   
-   * Ecological drivers of species distributions and niche overlap for three subterranean termite species in the southern Appalachian Mountains
-   * The role of glacial-interglacial climate change in shaping the genetic structure of eastern subterranean termites in the southern Appalachian Mountains
-   * Tree canopy cover and species richness in the Appalachian Mountains modulate epigenetic changes in the eastern subterranean termite
-   * A novel metric that captures functional landscape connectivity at multiple scales, from alleles to communities
+   - Ecological drivers of species distributions and niche overlap for three subterranean termite species in the southern Appalachian Mountains
+   - The role of glacial-interglacial climate change in shaping the genetic structure of eastern subterranean termites in the southern Appalachian Mountains
+   - Tree canopy cover and species richness in the Appalachian Mountains modulate epigenetic changes in the eastern subterranean termite
+   - A novel metric that captures functional landscape connectivity at multiple scales, from alleles to communities
   """
 [[experience]]
   title = "Graduate Teaching Assistant"
@@ -126,7 +126,7 @@ date_format = "Jan 2006"
   description = """
   Research:
   
-  * Community genetics in an urban ecological context: connectivity among invertebrate populations/communities in urban ponds and the relationship between genetic diversity (in meta-populations) and species diversity (in meta-communities).
+  * Community genetics in urban environments: connectivity among invertebrate populations/communities in urban ponds and the relationship between genetic diversity (in meta-populations) and species diversity (in meta-communities).
   """
 
 +++
