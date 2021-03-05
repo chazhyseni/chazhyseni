@@ -13,7 +13,7 @@ baseurl = "https://chazhyseni.github.io"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; Chaz Hyseni {year}"
+copyright = "&copy; Chaz Hyseni 2019-{year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-139514839-1"
