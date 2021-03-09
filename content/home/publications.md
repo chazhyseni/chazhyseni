@@ -76,7 +76,7 @@ subtitle = ""
 
 1. **Chaz Hyseni**, Jani Heino, Luis Mauricio Bini, Ulf Bjelke, Frank Johansson: *The importance of blue and green landscape connectivity for biodiversity in urban ponds.* **Basic and Applied Ecology**, In Review.
 
-2. Ryan Garrick, **Chaz Hyseni**, Isis Arantes, Louis Zachos, Peter Zee, Jeffrey Oliver: *Is phylogeographic congruence predicted by historical habitat stability, or ecological co-associations?.* **Insect Systematics and Diversity**, In Review.
+2. Ryan Garrick, **Chaz Hyseni**, Isis Arantes, Louis Zachos, Peter Zee, Jeffrey Oliver: *Is phylogeographic congruence predicted by historical habitat stability, or ecological co-associations?* **Insect Systematics and Diversity**, In Review.
 
 3. Norah Saarman, Rosemary Bateta, Kirstin Dion, TJ Johnson, **Chaz Hyseni**, Winnie Okeyo, Paul Mireji, Sylvance Okoth, Grace Murilla, Serap Aksoy, Adalgisa Caccone: *Finding sources of re-infestation: Spatial scale of genetic connectivity of tsetse populations along the Ugandan and Kenyan shore of Lake Victoria.* **American Journal of Tropical Medicine and Hygiene**, In Review.
  
