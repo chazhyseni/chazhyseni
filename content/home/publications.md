@@ -78,9 +78,9 @@ subtitle = ""
 
 2. Ryan Garrick, **Chaz Hyseni**, Isis Arantes, Louis Zachos, Peter Zee, Jeffrey Oliver: *Is phylogeographic congruence predicted by historical habitat stability, or ecological co-associations?* **Insect Systematics and Diversity**, In Review.
 
-3. Norah Saarman, Rosemary Bateta, Kirstin Dion, TJ Johnson, **Chaz Hyseni**, Winnie Okeyo, Paul Mireji, Sylvance Okoth, Grace Murilla, Serap Aksoy, Adalgisa Caccone: *Finding sources of re-infestation: Spatial scale of genetic connectivity of tsetse populations along the Ugandan and Kenyan shore of Lake Victoria.* **American Journal of Tropical Medicine and Hygiene**, In Review.
+#3. Norah Saarman, Rosemary Bateta, Kirstin Dion, TJ Johnson, **Chaz Hyseni**, Winnie Okeyo, Paul Mireji, Sylvance Okoth, Grace Murilla, Serap Aksoy, Adalgisa Caccone: *Finding sources of re-infestation: Spatial scale of genetic connectivity of tsetse populations along the Ugandan and Kenyan shore of Lake Victoria.* **American Journal of Tropical Medicine and Hygiene**, In Review.
  
-4. Anusha Bishop, Giuseppe Amatulli, **Chaz Hyseni**, Evlyn Pless, Rosemary Bateta, Winnie A. Okeyo, Paul O. Mireji, Sylvance Okoth, Imna Malele, Grace Murilla, Serap Aksoy, Adalgisa Caccone, Norah P. Saarman: *A machine learning approach to integrating genetic and ecological data in tsetse flies (Glossina pallidipes) for spatially explicit vector control planning.* **Evolutionary Applications**, In Press.
+4. Anusha Bishop, Giuseppe Amatulli, **Chaz Hyseni**, Evlyn Pless, Rosemary Bateta, Winnie A. Okeyo, Paul O. Mireji, Sylvance Okoth, Imna Malele, Grace Murilla, Serap Aksoy, Adalgisa Caccone, Norah P. Saarman: *A machine learning approach to integrating genetic and ecological data in tsetse flies (Glossina pallidipes) for spatially explicit vector control planning.* **Evolutionary Applications**, 2021. [PDF](publication/Bishopetal2021Accepted_GpConnectivity.pdf)
 
 5. Ryan C Garrick, **Chaz Hyseni**, Isis Arantes: *Efficient summary statistics for detecting lineage fusion from phylogeographic datasets.* **Journal of Biogeography**, 2020. [PDF](publication/Garricketal2020_SummaryStats.pdf)
 
