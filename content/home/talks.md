@@ -69,7 +69,7 @@ subtitle = ""
 
 +++
 
- - Uppsala University, Department of Ecology and Genetics, Animal Ecology Program: "Revolution" Annual Research Symposium (18-19 Feb 2021, Uppsala, Sweden): *Connectivity among pond meta-communities in urban landscapes and invertebrate biodiversity*
+ - Uppsala University, Department of Ecology and Genetics, Animal Ecology Program: "Revolution" Annual Research Symposium (18-19 Feb 2021, Uppsala, Sweden): *Landscape connectivity shapes invertebrate biodiversity in urban ponds*
 
  - Yale University Center for Genetic Analysis of Biodiversity (27 May 2020, New Haven CT): *Epigenetic change in the eastern subterranean termite modulated by ecological disturbance in Appalachian forest ecosystems*
 
