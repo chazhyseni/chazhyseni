@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Sp.Ec.Ev.Gen"
-subtitle = "Spatial Eco-Evolutionary Genetics"
+title = "Spatial Eco-Evolutionary Genetics"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -30,10 +30,10 @@ subtitle = "Spatial Eco-Evolutionary Genetics"
   
   # Background image.
   image = "sApps.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.35  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -48,5 +48,6 @@ subtitle = "Spatial Eco-Evolutionary Genetics"
 +++
 <img src="img/SpEcEvGen.png" 
      style="position:relative; float:right"
+     width="95%" 
      alt="SpEcEvGen" 
 /> 
