@@ -79,7 +79,7 @@ subtitle = ""
  css_class = ""
 +++
 
-[Pond_Conn: Urban pond metacommunities and landscape connectivity](https://github.com/chazhyseni/pond_conn)
+[Pond_Conn: Urban Pond Metacommunities and Landscape Connectivity](https://github.com/chazhyseni/pond_conn)
 
 [MSconn: Multi-Scale Landscape Connectivity](https://github.com/chazhyseni/MSconn)
 
@@ -87,5 +87,5 @@ subtitle = ""
 
 [Epigenetic Variation in Eastern Subterranean Termites](https://github.com/chazhyseni/msaflp)
 
-[Glacial-Interglacial Climate Change Shapes Genetic Structure of Eastern Subterranean Termites](https://datadryad.org/resource/doi:10.5061/dryad.5hr7f31)
+[Glacial-Interglacial Climate Change and Genetic Structure in Eastern Subterranean Termites](https://datadryad.org/resource/doi:10.5061/dryad.5hr7f31)
 
