@@ -85,7 +85,7 @@ subtitle = ""
 
 [NALgen: Neutral and Adaptive Landscape Genetics](https://chazhyseni.github.io/NALgen)
 
-[Epigenetic Variation in Eastern Subterranean Termites](https://github.com/chazhyseni/msaflp)
+[Glacial-Interglacial Cycles and Genetic Structure in Eastern Subterranean Termites](https://datadryad.org/resource/doi:10.5061/dryad.5hr7f31)
 
-[Glacial-Interglacial Climate Change and Genetic Structure in Eastern Subterranean Termites](https://datadryad.org/resource/doi:10.5061/dryad.5hr7f31)
+[Forest Ecosystems and Epigenetic Variation in Eastern Subterranean Termites](https://github.com/chazhyseni/msaflp)
 
