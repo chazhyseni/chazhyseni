@@ -16,7 +16,7 @@ role = "Postdoctoral Researcher"
 organizations = [ { name = "Dept. of Ecology and Genetics", url = "https://www.ieg.uu.se/?languageId=1" }, { name = "Evolutionary Biology Centre", url = "https://www.ebc.uu.se/?languageId=1" }, { name = "Uppsala University", url = "https://www.uu.se/en" },  ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Chaz Hyseni received his Ph.D. in Biological Science from the University of Mississippi. For his Ph.D. work, he investigated spatio-temporal patterns of genetic variation, and the role of DNA methylation in the contemporary evolution of subterranean termites in the Appalachian Mountains."
+bio = "Chaz Hyseni received degrees in environmental studies from Yale University (B.A.) and biological science from the University of Mississippi (Ph.D.), followed by postdoctoral research at Uppsala University in Sweden and the U.S. Forest Service."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "chaz.hyseni@gmail.com"
@@ -93,6 +93,6 @@ user_groups = ["Researchers", "Visitors"]
    link = "files/cv.pdf"
 
 +++
-I am an evolutionary biologist and population geneticist with extensive experience in molecular techniques and statistical analyses, including next-generation sequencing and bioinformatics. I use a multi-disciplinary approach by adapting methods from spatial and multivariate statistics, as well as machine learning, to answers questions in ecology and evolution. 
+I am an evolutionary biologist and population geneticist with extensive experience in molecular techniques and statistical analyses, including next-generation sequencing and bioinformatics. I use a multi-disciplinary approach to answering questions in ecology and evolution, by adapting methods from spatial and multivariate statistics, as well as machine learning. 
 I use both empirical data and spatial eco-evolutionary modeling to understand the distribution of genetic variation in natural environments. The modeling component involves new ways to assess the role spatial heterogeneity of environments plays in generating genetic variation and biological diversity at multiple levels of organization, from alleles to communities. 
 **Timescales of evolution** is a unifying theme of my research. At the historical timescale, I have examined geographic and environmental influences on changes in DNA sequence. At the contemporary timescale, I have investigated how epigenetic mechanisms--specifically, DNA methylation--facilitate rapid responses to human-mediated disturbance, both in forest and urban environments.
