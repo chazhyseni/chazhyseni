@@ -82,7 +82,7 @@ subtitle = ""
 
 3.  Renan Bosque, **Chaz Hyseni**, Maria Luiza Goncalves Santos, Eduardo Rangel, Camila Juliana da Silva Dias, Jacob Hearin, Nelson Silva Jr, Fabricius Maia, Guarino Colli, Brice Noonan: *Coloration patterns of sympatric Neotropical coral snakes show strong evidence of Mullerian mimicry* **Biology Letters**, In Review.
 
-4.  Susan B Adams, Scott G Hereford, **Chaz Hyseni**: *Prescribed fire and mechanical vegetation treatments in relation to burrow densities of primary burrowing crayfishes.* **Water**, 2021.
+4.  Susan B Adams, Scott G Hereford, **Chaz Hyseni**: *Prescribed fire and mechanical vegetation treatments in relation to burrow densities of primary burrowing crayfishes.* **Water**, 2021. [PDF](publication/Adamsetal2021.pdf)
 
 5.  Anusha Bishop, Giuseppe Amatulli, **Chaz Hyseni**, Evlyn Pless, Rosemary Bateta, Winnie A. Okeyo, Paul O. Mireji, Sylvance Okoth, Imna Malele, Grace Murilla, Serap Aksoy, Adalgisa Caccone, Norah P. Saarman: *A machine learning approach to integrating genetic and ecological data in tsetse flies (Glossina pallidipes) for spatially explicit vector control planning.* **Evolutionary Applications**, 2021. [PDF](publication/Bishopetal2021_GpConnectivity.pdf)
 
