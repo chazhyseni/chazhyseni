@@ -80,7 +80,7 @@ subtitle = ""
 
 2.  Ryan Garrick, **Chaz Hyseni**, Isis Arantes, Louis Zachos, Peter Zee, Jeffrey Oliver: *Is phylogeographic congruence predicted by historical habitat stability, or ecological co-associations?* **Insect Systematics and Diversity**, In Press.
 
-3.  Renan Bosque, **Chaz Hyseni**, Maria Luiza Goncalves Santos, Eduardo Rangel, Camila Juliana da Silva Dias, Jacob Hearin, Nelson Silva Jr, Fabricius Maia, Guarino Colli, Brice Noonan: *Coloration patterns of sympatric Neotropical coral snakes show strong evidence of Mullerian mimicry* **Biology Letters**, In Review.
+3.  Renan Bosque, **Chaz Hyseni**, Maria Luiza Goncalves Santos, Eduardo Rangel, Camila Juliana da Silva Dias, Jacob Hearin, Nelson Silva Jr, Fabricius Maia, Guarino Colli, Brice Noonan: *Coloration patterns of sympatric Neotropical coral snakes show strong evidence of Mullerian mimicry* **Biology Letters**, In Press.
 
 4.  Susan B Adams, Scott G Hereford, **Chaz Hyseni**: *Prescribed fire and mechanical vegetation treatments in relation to burrow densities of primary burrowing crayfishes.* **Water**, 2021. [PDF](publication/Adamsetal2021.pdf)
 
