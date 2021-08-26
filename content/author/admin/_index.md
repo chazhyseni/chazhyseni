@@ -9,13 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Oak Ridge Institute for Science and Education  \nPostdoctoral Fellow"
+role = "[ORISE](https://orise.orau.gov/) Postdoctoral Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "U.S. Forest Service  \nAquatic Conservation and Ecology", url = "https://www.srs.fs.usda.gov/cbhr/research/ace/" }, ]
+organizations = [ { name = "U.S. Forest Service" }
+, {name = "Aquatic Conservation and Ecology", url = "https://www.srs.fs.usda.gov/cbhr/research/ace/" }]
 #, { name = "Center for Bottomland Hardwoods Research", url = "https://www.srs.fs.usda.gov/cbhr/" }
-#, { name = "U.S. Forest Service", url = "https://www.fs.usda.gov/" },  ]
+#, { name = "U.S. Forest Service", url = "https://www.fs.usda.gov/" }]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Chaz Hyseni received degrees in environmental studies from Yale University (B.A.) and biological science from the University of Mississippi (Ph.D.), followed by postdoctoral research at Uppsala University in Sweden and the U.S. Forest Service."
@@ -95,4 +96,6 @@ user_groups = ["Researchers", "Visitors"]
    link = "files/cv.pdf"
 
 +++
-I am a population geneticist. My research is focused on the role spatial heterogeneity of environments plays in generating genetic variation and biodiversity. I use empirical data as well as spatial eco-evolutionary modeling. Recently, I have examined landscape connectivity among urban pond metacommunities, and the role this connectivity plays in shaping the relationship between (epi-)genetic diversity and species diversity. My current focus is on spatial and temporal modeling of stream temperatures, in order to predict responses of crayfish communities (including species endemic to Mississippi) to climate change.
+I am an evolutionary biologist and population geneticist with extensive experience in molecular techniques and statistical analyses, including next-generation sequencing and bioinformatics. I use a multi-disciplinary approach to address questions in ecology and evolution, by adapting methods from spatial and multivariate statistics, as well as machine learning. 
+I use both empirical data and spatial eco-evolutionary modeling to understand the distribution of genetic variation in natural environments. The modeling component involves new ways to assess the role spatial heterogeneity of environments plays in generating genetic variation and biological diversity at multiple levels of organization, from alleles to communities. 
+**Timescales of evolution** is a unifying theme of my research. At the historical timescale, I have examined geographic and environmental influences on changes in DNA sequence. At the contemporary timescale, I have investigated how epigenetic mechanisms--specifically, DNA methylation--facilitate rapid responses to human-mediated disturbance, both in forest and urban environments.
