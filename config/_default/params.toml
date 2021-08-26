@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "chaz.hyseni@gmail.com"
 #phone = ""
-address = "Department of Ecology and Genetics, Uppsala University, Norbyvagen 18D, 75236 Uppsala, Sweden"
+address = "Aquatic Conservation and Ecology, U.S. Forest Service, 1000 Front St, Oxford MS 38655, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
@@ -90,8 +90,8 @@ map = 2
 #map_api_key = "pk.eyJ1IjoiY2hhemJ2YjA5IiwiYSI6ImNrbHRpdHd3ejBrOXMyd254NGpodTFhaHYifQ.Ij3Bsf_mQt03MKDIDQypJg"
 #google maps
 map_api_key = "AIzaSyB--eVHQ0OGC-3j8BAglbkoy-5NILZKrvU"
-latitude = "59.84957"
-longitude = "17.62372"
+latitude = "34.3557751"
+longitude = "-89.5452442"
 zoom = 14
 
 ############################

@@ -69,7 +69,7 @@ date_format = "Jan 2006"
   description = """
   Research:
   
-  * Conservation genetics: spatio-temporal genetic variation and gene-environment association in the eastern oyster
+  * Eastern oyster conservation research: spatio-temporal genetic variation and gene-environment association along a salinity gradient
   """
 [[experience]]
   title = "Ph.D. Student"
@@ -122,11 +122,24 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Uppsala, Sweden"
   date_start = "2020-08-31"
+  date_end = "2021-08-30"
+  description = """
+  Research:
+  
+  * Community genetics in urban environments: connectivity among invertebrate populations/communities in urban ponds and the relationship between (epi-)genetic diversity (in meta-populations) and species diversity (in meta-communities)
+  """
+
+[[experience]]
+  title = "Oak Ridge Institute for Science and Education Postdoctoral Fellow"
+  company = "U.S. Forest Service"
+  company_url = ""
+  location = "Oxford MS, USA"
+  date_start = "2021-08-31"
   date_end = ""
   description = """
   Research:
   
-  * Community genetics in urban environments: connectivity among invertebrate populations/communities in urban ponds and the relationship between (epi-)genetic diversity (in meta-populations) and species diversity (in meta-communities).
+  * Spatial and temporal modeling of stream temperatures, response to climate change, and effects on diversity of crayfish communities
   """
 
 +++

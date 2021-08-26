@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   date_start = "2014-09-29"
   date_end = ""
   description = """
-  Reviews (15):
+  Reviews (16):
   
   * Bulletin of Entomological Research (3)  
   * Communications Biology (2)  
@@ -59,6 +59,7 @@ date_format = "Jan 2006"
   * Infection, Genetics and Evolution (1)  
   * Insects (1)  
   * PLoS Neglected Tropical Diseases (1)
+  * Scientific Reports (1)
   """
 [[item]]
   organization = "MDPI Insects"

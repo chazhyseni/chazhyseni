@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Postdoctoral Researcher"
+role = "Oak Ridge Institute for Science and Education Postdoctoral Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Dept. of Ecology and Genetics", url = "https://www.ieg.uu.se/?languageId=1" }, { name = "Evolutionary Biology Centre", url = "https://www.ebc.uu.se/?languageId=1" }, { name = "Uppsala University", url = "https://www.uu.se/en" },  ]
+organizations = [ { name = "Aquatic Conservation and Ecology", url = "https://www.srs.fs.usda.gov/cbhr/research/ace/" }, { name = "Center for Bottomland Hardwoods Research", url = "https://www.srs.fs.usda.gov/cbhr/" }, { name = "U.S. Forest Service", url = "https://www.fs.usda.gov/" },  ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Chaz Hyseni received degrees in environmental studies from Yale University (B.A.) and biological science from the University of Mississippi (Ph.D.), followed by postdoctoral research at Uppsala University in Sweden and the U.S. Forest Service."
