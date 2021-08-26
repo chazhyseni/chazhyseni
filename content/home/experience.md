@@ -130,7 +130,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Oak Ridge Institute for Science and Education Postdoctoral Fellow"
+  title = "ORISE Postdoctoral Fellow"
   company = "U.S. Forest Service"
   company_url = ""
   location = "Oxford MS, USA"
