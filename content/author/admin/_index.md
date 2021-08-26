@@ -13,9 +13,7 @@ role = "Postdoctoral Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ {name = "ORISE", url = "https://orise.orau.gov/"}, { name = "U.S. Forest Service" }, {name = "Aquatic Conservation and Ecology", url = "https://www.srs.fs.usda.gov/cbhr/research/ace/"}]
-#, { name = "Center for Bottomland Hardwoods Research", url = "https://www.srs.fs.usda.gov/cbhr/" }
-#, { name = "U.S. Forest Service", url = "https://www.fs.usda.gov/" }]
+organizations = [ { name = "ORISE", url = "https://orise.orau.gov/" }, { name = "U.S. Forest Service", url = "https://www.fs.usda.gov/" }, {name = "Aquatic Conservation & Ecology", url = "https://www.srs.fs.usda.gov/cbhr/research/ace/"}]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Chaz Hyseni received degrees in environmental studies from Yale University (B.A.) and biological science from the University of Mississippi (Ph.D.), followed by postdoctoral research at Uppsala University in Sweden and the U.S. Forest Service."
