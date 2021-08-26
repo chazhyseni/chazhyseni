@@ -90,9 +90,9 @@ map = 2
 #map_api_key = "pk.eyJ1IjoiY2hhemJ2YjA5IiwiYSI6ImNrbHRpdHd3ejBrOXMyd254NGpodTFhaHYifQ.Ij3Bsf_mQt03MKDIDQypJg"
 #google maps
 map_api_key = "AIzaSyB--eVHQ0OGC-3j8BAglbkoy-5NILZKrvU"
-latitude = "34.3557751"
-longitude = "-89.5452442"
-zoom = 15
+latitude = "34.35572"
+longitude = "-89.54302"
+zoom = 16
 
 ############################
 ## Plugins                ##

@@ -5,8 +5,13 @@
 
 
 [[main]]
-  name = "Research"
+  name = "Biography"
   url = "#about"
+  weight = 10
+
+[[main]]
+  name = "Research"
+  url = "#research"
   weight = 10
 
 [[main]]
