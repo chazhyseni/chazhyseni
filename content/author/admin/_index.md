@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Oak Ridge Institute for Science and Education  Postdoctoral Fellow"
+role = "Oak Ridge Institute for Science and Education  \nPostdoctoral Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "U.S. Forest Service  Aquatic Conservation and Ecology", url = "https://www.srs.fs.usda.gov/cbhr/research/ace/" }, ]
+organizations = [ { name = "U.S. Forest Service  \nAquatic Conservation and Ecology", url = "https://www.srs.fs.usda.gov/cbhr/research/ace/" }, ]
 #, { name = "Center for Bottomland Hardwoods Research", url = "https://www.srs.fs.usda.gov/cbhr/" }
 #, { name = "U.S. Forest Service", url = "https://www.fs.usda.gov/" },  ]
 
