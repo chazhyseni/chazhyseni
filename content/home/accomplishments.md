@@ -59,7 +59,6 @@ date_format = "Jan 2006"
   * Infection, Genetics and Evolution (1)  
   * Insects (1)  
   * PLoS Neglected Tropical Diseases (1)
-#  * Scientific Reports (1)
   """
 #[[item]]
 #  organization = "MDPI Insects"
@@ -71,7 +70,7 @@ date_format = "Jan 2006"
 #  date_end = ""
 #  description = """
 #  Interests:
-  
+#  
 #  * Climate Change
 #  * Community Genetics
 #  * Ecological Genetics
