@@ -39,22 +39,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "*Symposium Organizing Committee*"
-  organization_url = "https://www.ieg.uu.se/internal/internal-animaleco/#rev"
-  title = "**Revolution** Annual Research Symposium (18-19 Feb 2021, Uppsala, Sweden)"
-  url = "files/Revolution_2021_Schedule.pdf"
+  title = "*Symposium Organizing Committee*"
+  url = ""
+  organization = ""
+  organization_url = ""
   certificate_url = ""
   date_start = "2021-02-18"
   date_end = ""
   description = """
+  [**Revolution**:](https://www.ieg.uu.se/internal/internal-animaleco/#rev) [Annual Research Symposium (18-19 Feb 2021, Uppsala, Sweden)](files/Revolution_2021_Schedule.pdf)
   """
 
 
 [[item]]
-  organization = "*Peer Review*"
-  organization_url = ""
-  title = ""
+  title = "**Peer Review**"
   url = "http://publons.com/author/398466/"
+  organization = ""
+  organization_url = ""
   certificate_url = ""
   date_start = "2014-09-29"
   date_end = ""
