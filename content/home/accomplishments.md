@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Peer Review"
+title = "Service"
 subtitle = ""
 
 # Date format
@@ -39,9 +39,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Publons"
+  organization = "Symposium Organizing Committee"
+  organization_url = "https://www.ieg.uu.se/internal/internal-animaleco/#rev"
+  title = "“Revolution” Annual Research Symposium (18-19 Feb 2021, Uppsala, Sweden)"
+  url = "files/Revolution_2021_Schedule.pdf"
+  certificate_url = ""
+  date_start = "2021-02-18"
+  date_end = ""
+  description = """
+  """
+
+
+[[item]]
+  organization = "Peer Review"
   organization_url = ""
-  title = "Reviewer"
+  title = ""
   url = "http://publons.com/author/398466/"
   certificate_url = ""
   date_start = "2014-09-29"
