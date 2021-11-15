@@ -39,15 +39,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "*Symposium Organizing Committee*"
-  url = ""
+  title = "**Symposium Organizing Committee**"
+  url = "https://www.ieg.uu.se/internal/internal-animaleco/#rev"
   organization = ""
   organization_url = ""
   certificate_url = ""
   date_start = "2021-02-18"
   date_end = ""
   description = """
-  [**Revolution**:](https://www.ieg.uu.se/internal/internal-animaleco/#rev) [Annual Research Symposium (18-19 Feb 2021, Uppsala, Sweden)](files/Revolution_2021_Schedule.pdf)
+  [**Revolution**: Annual Research Symposium (18-19 Feb 2021, Uppsala, Sweden)](files/Revolution_2021_Schedule.pdf)
   """
 
 
