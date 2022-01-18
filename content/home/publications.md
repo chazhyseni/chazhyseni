@@ -76,7 +76,7 @@ subtitle = ""
 
 = Equal Contribution
 
-1.  Renan Bosque, **Chaz Hyseni**, Maria Luiza Santos, Eduardo Rangel, Camila Dias, Jacob Hearin, Nelson Silva Jr, Fabricius Domingos, Guarino Colli, Brice Noonan: [Mullerian mimicry and the colouration patterns of sympatric coral snakes.]() *Biological Journal of the Linnean Society*, In Press.
+1.  Renan Bosque, **Chaz Hyseni**, Maria Luiza Santos, Eduardo Rangel, Camila Dias, Jacob Hearin, Nelson Silva Jr, Fabricius Domingos, Guarino Colli, Brice Noonan: [Mullerian mimicry and the colouration patterns of sympatric coral snakes.](https://doi.org/10.1093/biolinnean/blab155) *Biological Journal of the Linnean Society*. [PDF](publication/Bosqueetal2022.pdf)
 
 2.  **Chaz Hyseni**, Jani Heino, Luis Mauricio Bini, Ulf Bjelke, Frank Johansson: [The importance of blue and green landscape connectivity for biodiversity in urban ponds.](https://doi.org/10.1016/j.baae.2021.10.004) *Basic and Applied Ecology*. [PDF](publication/Hysenietal2021.pdf)
 
