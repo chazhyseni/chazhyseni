@@ -76,7 +76,7 @@ subtitle = ""
 
 = Equal Contribution
 
-1.  Mathieu Pelissie, Frank Johansson, **Chaz Hyseni**: [Pushed northward by climate change: ecological niche models predict odonate range shifts in northern Europe.](). *Environmental Entomology*, In Review.
+1.  Mathieu Pelissie, Frank Johansson, **Chaz Hyseni**: [Pushed northward by climate change: ecological niche models predict odonate range shifts in northern Europe.]() *Environmental Entomology*, In Review.
 
 2.  Renan Bosque, **Chaz Hyseni**, Maria Luiza Santos, Eduardo Rangel, Camila Dias, Jacob Hearin, Nelson Silva Jr, Fabricius Domingos, Guarino Colli, Brice Noonan: [Mullerian mimicry and the colouration patterns of sympatric coral snakes.](https://doi.org/10.1093/biolinnean/blab155) *Biological Journal of the Linnean Society*, 2022. [PDF](publication/Bosqueetal2022.pdf)
 
