@@ -58,18 +58,20 @@ date_format = "Jan 2006"
   organization_url = ""
   certificate_url = ""
   date_start = "2014-09-29"
-  date_end = ""
+  date_end = "2022-03-31"
   description = """
-  Reviews (15):
+  Reviews (18):
   
   * Bulletin of Entomological Research (3)  
+  * Ecology and Evolution (3)  
   * Communications Biology (2)  
-  * Ecology and Evolution (2)  
   * Molecular Ecology (2)  
   * Animal Microbiome (1)  
   * Basic and Applied Ecology (1)
   * Conservation Genetics (1)
+  * Current Research in Parasitology and Vector-Borne Diseases (1)
   * Infection, Genetics and Evolution (1)  
+  * Insect Systematics and Diversity (1)  
   * Insects (1)  
   * PLoS Neglected Tropical Diseases (1)
   """
