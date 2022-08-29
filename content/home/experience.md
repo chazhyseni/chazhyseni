@@ -139,7 +139,7 @@ date_format = "Jan 2006"
   description = """
   Research:
   
-  * Spatial and temporal modeling of stream temperatures, response to climate change, and effects on diversity of crayfish communities
+  * Spatial and temporal modeling of stream temperatures, response to climate change, and effects on freshwater biodiversity
   """
 
 +++

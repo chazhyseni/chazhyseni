@@ -68,9 +68,14 @@ subtitle = ""
  css_class = ""
 
 +++
+ - [Evolution (24-28 Jun 2022, Cleveland OH)](https://www.xcdsystem.com/evolution/program/3plFcP3/index.cfm): [*Tropical-temperate gradients of species and genetic diversity across the rugged landscapes of the American Cordillera*](talk/Cordilleras_SpecGenDiv_Presentation.pdf)
+
+ - USDA Forest Service, 68th Annual Southern Hardwood Forest Research Group Meeting (22 Mar 2022, Virtual): *Spatio-temporal variation in freshwater temperature shapes fish communities in Mississippi's Yazoo Basin*
 
  - [Evolution (21-25 Jun 2021, Virtual)](files/virtual_evolution_2021_full_program.pdf): [*Linking invertebrate biodiversity and epigenetics in urban aquatic environments*](talk/CommunityGenetics_Evolution2021_Talk_wRecording.mp4)
 
+ - Uppsala University, Department of Ecology and Genetics: Conservation Biology Seminar (11 Mar 2021, Uppsala, Sweden): *Multi-scale connectivity: from alleles to communities*
+ 
  - Uppsala University, Department of Ecology and Genetics, Animal Ecology Program: "Revolution" Annual Research Symposium (18-19 Feb 2021, Uppsala, Sweden): [*Landscape connectivity shapes invertebrate biodiversity in urban ponds*](talk/PondConnectivity_Revolution2021_Talk.pdf)
 
  - Yale University Center for Genetic Analysis of Biodiversity (27 May 2020, New Haven CT): [*Epigenetic change in the eastern subterranean termite modulated by ecological disturbance in Appalachian forest ecosystems*](talk/DNAmethylation_SubterraneanTermites.pdf)
@@ -91,3 +96,4 @@ subtitle = ""
 
  - University of Mississippi Graduate Student Council 7th Annual Research Symposium (2 Mar 2017, Oxford MS): *Genetic variation and geographic distribution of subterranean termites in the Appalachians*
 
+ - American Society of Tropical Medicine and Hygiene (3-7 Nov 2010, Atlanta GA): *Landscape configuration influences genetic structure of tsetse (Glossina fuscipes fuscipes) in Uganda*
