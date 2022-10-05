@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   organization_url = ""
   certificate_url = ""
   date_start = "2021-11-10"
-  date_end = "2022-11-20"
+  date_end = "2022-11-30"
   description = """
   [**Skype-a-Scientist**](https://www.skypeascientist.com/) (3)
   
