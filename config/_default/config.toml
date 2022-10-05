@@ -16,7 +16,8 @@ baseurl = "https://chazhyseni.github.io"
 copyright = "&copy; Chaz Hyseni 2019-{year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-#googleAnalytics = "UA-139514839-1"
+#GA v3
+googleAnalytics = "UA-139514839-1"
 ##new GA v4
 googleAnalyticsID = "G-392WYZQ1V0"
 
