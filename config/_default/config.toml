@@ -17,7 +17,7 @@ copyright = "&copy; Chaz Hyseni 2019-{year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
 #googleAnalytics = "UA-139514839-1"
-##new: GA4
+##new GA v4
 googleAnalytics = "G-392WYZQ1V0"
 
 # Enable comments by entering your Disqus shortname
