@@ -39,6 +39,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "**Outreach**"
+  url = ""
+  organization = ""
+  organization_url = ""
+  certificate_url = ""
+  date_start = "2021-11-10"
+  date_end = "2022-11-20"
+  description = """
+  [**Skype-a-Scientist**](https://www.skypeascientist.com/) (3)
+  
+  * [*Centennial Central Public School*](https://centennialcentral.tvdsb.ca/en/index.aspx): Grade 6 (17 Nov 2021)
+  * [*University of Houston Downtown*](https://www.uhd.edu/academics/public-service/urban-education/Pages/default.aspx): Pre-service Elementary Teachers (13 Sep 2022)
+  * [*Rutgers University*](https://nbdiversity.rutgers.edu/): 1st-gen. College-bound High School Students (19 Nov 2022)
+  
+  
+  
+  
+  
+  """
+
+[[item]]
   title = "**Organizing Committee**"
   url = "https://www.ieg.uu.se/internal/internal-animaleco/#rev"
   organization = ""
@@ -50,15 +71,14 @@ date_format = "Jan 2006"
   [**Revolution**: Annual Research Symposium (18-19 Feb 2021, Uppsala, Sweden)](files/Revolution_2021_Schedule.pdf)
   """
 
-
 [[item]]
   title = "**Peer Review**"
   url = "https://orcid.org/0000-0003-2567-8013"
   organization = ""
   organization_url = ""
   certificate_url = ""
-  date_start = "2014-09-29"
-  date_end = "2022-09-15"
+  date_start = "2014-09-30"
+  date_end = "2022-10-15"
   description = """
   Reviews (21):
   
@@ -75,25 +95,20 @@ date_format = "Jan 2006"
   * Land (1)  
   * PLoS Neglected Tropical Diseases (1)
   """
-#[[item]]
-#  organization = "MDPI Insects"
-#  organization_url = ""
-#  title = "Topic Editor"
-#  url = "https://www.mdpi.com/journal/insects/topic_editors/"
-#  certificate_url = ""
-#  date_start = "2020-06-22"
-#  date_end = ""
-#  description = """
-#  Interests:
-#  
-#  * Climate Change
-#  * Community Genetics
-#  * Ecological Genetics
-#  * Ecological Epigenetics
-#  * Landscape Connectivity
-#  * Metacommunities
-#  * Phylogeography
-#  * Spatial Eco-Evolutionary Modeling
-#  """
+  
+[[item]]
+  title = "**Editor**"
+  url = ""
+  organization = ""
+  organization_url = ""
+  certificate_url = ""
+  date_start = "2020-06-20"
+  date_end = "2022-09-30"
+  description = """
+  Associate Editor (2):
+  
+  * Frontiers in Marine Science
+  * Insects
+  """
 
 +++
