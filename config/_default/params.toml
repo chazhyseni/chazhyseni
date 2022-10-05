@@ -108,6 +108,9 @@ plugins_js  = []
 ## Advanced options       ##
 ############################
 
+##new GA v4
+googleAnalyticsID = "G-392WYZQ1V0"
+
 # Get user avatars from Gravatar.com? (true/false)
 gravatar = false
 
